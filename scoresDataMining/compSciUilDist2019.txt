@@ -1,0 +1,1885 @@
+1A
+Computer Science 2
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Upton, Jordan	Hedley HS, Hedley	10	1	15	X	Region
+Wells, Zachary	Hedley HS, Hedley	2	2	12	X	Region
+Monroe, Collin	Hedley HS, Hedley	-6	3	10	X	Region
+Mestas, Leandra	Hedley HS, Hedley	-8	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Hedley HS, Hedley	1	6	1	20	X	Region
+Computer Science 5
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Dictson, Eli	Whitharral HS, Whitharral	102	1	15	X	Region
+Bradfute, Shelton	Springlake HS, Earth	50	2	12	X	Region
+Canales, Carlos	Springlake HS, Earth	36	3	10	X	Region
+Everett, Taegen	Springlake HS, Earth	24	4	8	X	Alternate
+Rodriguez, David	Whitharral HS, Whitharral	6	5	6	X	
+Coats, Kodi	Whiteface HS, Whiteface	6	6	4	X	
+Driver, Zachary	Whitharral HS, Whitharral	4	7			
+Cleavinger, Clay	Whiteface HS, Whiteface	4	7			
+Timmons, Clayton	Whiteface HS, Whiteface	2	9			
+Ortiz, Laura	Springlake HS, Earth	0	10
+Cook, Logan	Whitharral HS, Whitharral	-2	11			
+Fortner, Jeffrey	Whiteface HS, Whiteface	-4	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Whitharral HS, Whitharral	1	292	1	20	X	Region
+Springlake HS, Earth	1	230	2	16	X	Alternate
+Whiteface HS, Whiteface	1	12	3	12	X	
+Computer Science 7
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Scott, Kelsee	Loop HS, Loop	48	1	15	X	Region
+Valentine, Johnathan	Meadow HS, Meadow	24	2	12	X	Region
+Harms, Peter	Loop HS, Loop	24	3	10	X	Region
+Franco, Zachary	Meadow HS, Meadow	22	4	8	X	Alternate
+Taubert, Kolton	Loop HS, Loop	20	5	6	X	
+Aranda, Gabriela	Loop HS, Loop	18	6	4	X	
+Wyatt, Drake	Ropes HS, Ropesville	16	7			
+Bryan, Ceara	Meadow HS, Meadow	16	7			
+Hunt, Zoey	Meadow HS, Meadow	14	9			
+Rodriguez, Jochi	O'Donnell HS, O'Donnell	2	10			
+Lance, Cierra	Ropes HS, Ropesville	-4	11			
+Thompson, Mac	Ropes HS, Ropesville	-6	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Loop HS, Loop	1	147	1	20	X	Region
+Meadow HS, Meadow	1	122	2	16	X	Alternate
+Ropes HS, Ropesville	1	61	3	12	X
+Computer Science 8
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Justice, Ben	Borden HS, Gail	208	1	15	X	Region
+Cole, Mason	Borden HS, Gail	142	2	12	X	Region
+Buchanan, Austin	Borden HS, Gail	38	3	10	X	Region
+Castendeda, Zachary	Grady HS, Lenorah	28	4	8	X	Alternate
+Souder, Jeramy	Borden HS, Gail	18	5	6	X	
+Hill, Ashley	Grady HS, Lenorah	12	6	4	X	
+Gonzlaes, Sydney	Grady HS, Lenorah	10	7			
+Sims, Cooper	Grady HS, Lenorah	0	8			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Borden HS, Gail	1	748	1	20	X	Region
+Grady HS, Lenorah	1	50	2	16	X	Alternate
+Computer Science 9
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Rauch, Zechariah	Dell City HS, Dell City	20	1	15	X	Region
+Aguero, John	Marfa HS, Marfa	18	2	12	X	Region
+Hicks, Rebekah	Fort Davis HS, Fort Davis	5	3	10	X	Region
+Jurado, Isaiah	Balmorhea HS, Balmorhea	2	4	8	X	Alternate
+Guthrie, Jake	Fort Davis HS, Fort Davis	0	5	6	X
+Dutchover, Tyler	Balmorhea HS, Balmorhea	-2	6	2	X	
+Simpson, Austyn	Fort Davis HS, Fort Davis	-2	6	2	X
+Ramos, Marco Antonio	Balmorhea HS, Balmorhea	-4	8			
+Naegele, Abby	Fort Davis HS, Fort Davis	-4	8
+Vargas, Shania	Dell City HS, Dell City	-10	10
+Burford, Kaysie	Dell City HS, Dell City	-12	11
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Balmorhea HS, Balmorhea	1	96	1	20	X	Region
+Computer Science 10
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Guardardo, Cecilia	Grandfalls-Royalty HS, Grandfalls	10	1	15	X	Region
+Crook, Ariana	Grandfalls-Royalty HS, Grandfalls	8	2	12	X	Region
+Maldonado, Jessica	Big Bend HS, Terlingua	6	3	10	X	Region
+Bright, Landan	Rankin HS, Rankin	4	4	7	X	Alternate
+Cadena, Jerry Lee	Grandfalls-Royalty HS, Grandfalls	4	4	7	X	Alternate
+Rubio, Analise	Sanderson HS, Sanderson	4	6	4	X
+Galindo, Lisandro	Rankin HS, Rankin	2	7
+Gonzales, Matthew	Rankin HS, Rankin	0	8
+Carrasco, Noel	Sanderson HS, Sanderson	-4	9
+Lopez, Natalie	Sanderson HS, Sanderson	-4	9
+Thomas, Brenton	Sanderson HS, Sanderson	-6	11
+Hawkins, Sevin	Rankin HS, Rankin	-6	11
+Jones, Nick	Big Bend HS, Terlingua	-6	11			
+Rodriguez, Fernanda	Big Bend HS, Terlingua	-6	11			
+Villanueva, Yadriana	Big Bend HS, Terlingua	-6	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Grandfalls-Royalty HS, Grandfalls	1	82	1	20	X	Region
+Big Bend HS, Terlingua	1	54	2	16	X	Alternate
+Rankin HS, Rankin	1	6	3	12	X
+Sanderson HS, Sanderson	1	-4	4
+Computer Science 12
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Saucedo, Jonathan	Menard HS, Menard	-2	1	15	X	Region
+Whitaker, Kolton	Menard HS, Menard	-2	2	12	X	Region
+Tanner, Kaiden	Menard HS, Menard	-10	3	10	X	Region
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Menard HS, Menard	1	-14	1	20	X	Region
+Computer Science 13
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Billingsley, Dylan	Ira HS, Ira	0	1	15	X	Region
+Rios, Holden	Ira HS, Ira	-16	2	12	X	Region
+Hernandez, Lexton	Ira HS, Ira	-24	3	9	X	Region
+Weaver, Ike	Ira HS, Ira	-24	3	9	X	Region
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Ira HS, Ira	1	-40	1	20	X	Region
+Computer Science 14
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Morris, Karter	Aspermont HS, Aspermont	150	1	15	X	Region
+Martin, Clayton	Aspermont HS, Aspermont	124	2	12	X	Region
+Bhakta, Niraj	Aspermont HS, Aspermont	60	3	10	X	Region
+Chavez, Luis	Aspermont HS, Aspermont	48	4	8	X	Alternate
+Garcia, Norman A	Hamlin HS, Hamlin	0	5	3.33	X	
+Gonzalez, Abraham I	Hamlin HS, Hamlin	0	5	3.33	X	
+White, Caleb L	Hamlin HS, Hamlin	0	5	3.33	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Aspermont HS, Aspermont	1	629	1	20	X	Region
+Hamlin HS, Hamlin	1	60	2	16	X	Alternate
+Computer Science 15
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Ballard, Zac	Guthrie HS, Guthrie	18	1	15	X	Region
+Brandon, Brittney	Guthrie HS, Guthrie	14	2	12	X	Region
+Awe, Kaden	Jayton HS, Jayton	10	3	10	X	Region
+Jones, Abigail	Guthrie HS, Guthrie	8	4	8	X	Alternate
+Mays, TK	Guthrie HS, Guthrie	6	5	5	X	
+Smith, Pecos	Jayton HS, Jayton	6	5	5	X
+Hurd, Bessie L.	Paducah HS, Paducah	0	7			
+Hargrave, Julia B.	Paducah HS, Paducah	0	7			
+Scogin, Tye	Jayton HS, Jayton	0	7
+Moorhead, Keldan	Jayton HS, Jayton	0	7
+Leary, Olivia	Spur HS, Spur	0	7			
+Adams, Keaton	Spur HS, Spur	0	7			
+Vasquez, Jacob	Spur HS, Spur	0	7			
+Reyes, Kevin	Spur HS, Spur	0	7			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Spur HS, Spur	1	60	1	20	X	Region
+Guthrie HS, Guthrie	1	40	2	16	X	Alternate
+Jayton HS, Jayton	1	16	3	12	X
+Computer Science 16
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Granados, Armando	Chillicothe HS, Chillicothe	12	1	15	X	Region
+Logsdon, Sean	Knox City HS, Knox City	6	2	10	X	Region
+Tatum, Terry	Knox City HS, Knox City	6	2	10	X	Region
+Ankerstjerne, Ingefred	Knox City HS, Knox City	6	2	10	X	Region
+Alvarado, PJ	Munday HS, Munday	5	5	6	X	Alternate
+Waldo, Brison	Chillicothe HS, Chillicothe	0	6	4	X	
+Vega, Alexa	Munday HS, Munday	-4	7
+Cox, Corban	Knox City HS, Knox City	-6	8			
+Carlile, Cody	Munday HS, Munday	-12	9
+Rocha, Kendall	Munday HS, Munday	-12	9
+Graham, Logan	Chillicothe HS, Chillicothe	-28	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Munday HS, Munday	1	-11	1	20	X	Region
+Computer Science 17
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Hernandez, Shelby	Lometa HS, Lometa	38	1	15	X	Region
+Wills, Jayme	Lometa HS, Lometa	20	2	12	X	Region
+Tower, Sierra	Lometa HS, Lometa	14	3	10	X	Region
+Briones, Ivan	Gustine HS, Gustine	10	4	8	X	Alternate
+Holbach, Malachi	Gustine HS, Gustine	6	5	5	X	
+Burkham, Grayson	Evant HS, Evant	6	5	5	X
+Lewis, William	Evant HS, Evant	4	7
+Tower, Shyanne	Lometa HS, Lometa	0	8
+McKee, Austen	Gustine HS, Gustine	0	8			
+Williams, Melissa	Evant HS, Evant	0	8
+Ramsey, William	Evant HS, Evant	0	8
+Partin, Cade	Priddy HS, Priddy	0	8			
+Goehmann, Dominic	Priddy HS, Priddy	0	8			
+Dunlap, Taylor	Lometa HS, Lometa	-2	14
+Schimmel, Louis	Priddy HS, Priddy	-6	15			
+Castillo, Adrian	Gustine HS, Gustine	-10	16			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Lometa HS, Lometa	1	72	1	20	X	Region
+Gustine HS, Gustine	1	16	2	16	X	Alternate
+Evant HS, Evant	1	10	3	12	X
+Priddy HS, Priddy	1	-6	4		
+Computer Science 18
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Sublett, Weston	May HS, May	70	1	15	X	Region
+Flenniken, Connor	May HS, May	42	2	12	X	Region
+White, Elizabeth	May HS, May	24	3	10	X	Region
+Henderson, Ryan	May HS, May	12	4	7	X	Alternate
+Terry, Brandon	Zephyr HS, Zephyr	12	4	7	X	Alternate
+Bastardo, Janessa	Blanket HS, Blanket	10	6	4	X	
+Terpening, Thomas	Zephyr HS, Zephyr	10	7			
+Simpson, Walter	Zephyr HS, Zephyr	4	8			
+Boyd, Isabella	Blanket HS, Blanket	-4	9			
+Petty, Tristan	Zephyr HS, Zephyr	-10	10			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+May HS, May	1	246	1	20	X	Region
+Zephyr HS, Zephyr	1	26	2	16	X	Alternate
+Computer Science 19
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Hernandez, Roberto	Lingleville HS, Lingleville	24	1	15	X	Region
+Medford, Kylie	Rising Star HS, Rising Star	16	2	12	X	Region
+Moreno, Carlos	Lingleville HS, Lingleville	14	3	10	X	Region
+Ramirez, Marco	Gorman HS, Gorman	4	4	8	X	Alternate
+Fritz, Stephen	Lingleville HS, Lingleville	4	5	6	X
+Brennan, Luke	Rising Star HS, Rising Star	0	6	4	X	
+Gage, Brock	Lingleville HS, Lingleville	-2	7
+Gutierrez, Gustavo	Gorman HS, Gorman	-10	8
+Medford, Morgan	Rising Star HS, Rising Star	-20	9			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Lingleville HS, Lingleville	1	42	1	20	X	Region
+Rising Star HS, Rising Star	1	-4	2	16	X	Alternate
+Computer Science 21
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Tucker, Kelli	Perrin-Whitt HS, Perrin	64	1	15	X	Region
+Young, Hayden	Perrin-Whitt HS, Perrin	58	2	12	X	Region
+Davis, Courtney	Perrin-Whitt HS, Perrin	44	3	10	X	Region
+Lester, Hayden	Woodson HS, Woodson	44	4	8	X	Alternate
+Phillips, Brett	Graford HS, Graford	36	5	6	X
+Phillips, David	Graford HS, Graford	26	6	4	X
+Segura, Jesus	Perrin-Whitt HS, Perrin	12	7
+Rogers, Keagan	Graford HS, Graford	10	8
+Brown, Jordan	Woodson HS, Woodson	8	9			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Perrin-Whitt HS, Perrin	1	286	1	20	X	Region
+Graford HS, Graford	1	72	2	16	X	Alternate
+Computer Science 22
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Davis, Dusty	Slidell HS, Slidell	194	1	15	X	Region
+Johnson, Warren	Slidell HS, Slidell	164	2	12	X	Region
+Vanover, Easton	Slidell HS, Slidell	90	3	10	X	Region
+Champagne, Ashton	Slidell HS, Slidell	70	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Slidell HS, Slidell	1	678	1	20	X	Region
+Computer Science 23
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Garner, Keith	Fruitvale HS, Fruitvale	150	1	15	X	Region
+Nimmo, Hannah L	Pioneer Technology & Arts Acad, Greenville	20	2	12	X	Region
+Bumgardner, Adam	Fruitvale HS, Fruitvale	18	3	10	X	Region
+Smith, Mason	Fruitvale HS, Fruitvale	16	4	8	X	Alternate
+Taylor, Samuel D	Pioneer Technology & Arts Acad, Greenville	16	5	6	X	
+Sweet, Connor	Savoy HS, Savoy	12	6	4	X	
+McCauley, Patrik	Savoy HS, Savoy	8	7			
+Matthews, Tae'breon D	Pioneer Technology & Arts Acad, Greenville	6	8			
+Landon, Allen	Savoy HS, Savoy	4	9			
+Mobley, Alex	Fruitvale HS, Fruitvale	4	9			
+Cummings, Jonathan J	Pioneer Technology & Arts Acad, Greenville	-16	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Fruitvale HS, Fruitvale	1	184	1	20	X	Region
+Pioneer Technology & Arts Acad, Greenville	1	42	2	16	X	Alternate
+Savoy HS, Savoy	1	24	3	12	X
+Computer Science 25
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Peel, Orion	Covington HS, Covington	90	1	15	X	Region
+Burkett, Camdyne	Blum HS, Blum	6	2	12	X	Region
+Allen, Brendan	Blum HS, Blum	4	3	10	X	Region
+Segars, Annie	Blum HS, Blum	-2	4	7	X	Alternate
+Murrah, Jadyn	Blum HS, Blum	-2	4	7	X	Alternate
+Todd, Ashley	Covington HS, Covington	-34	6	4	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Blum HS, Blum	1	8	1	20	X	Region
+Computer Science 28
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Vann, Kaylee	Wells HS, Wells	44	1	15	X	Region
+Frederick, Shane	Wells HS, Wells	18	2	12	X	Region
+Burch, Kaley	Wells HS, Wells	14	3	10	X	Region
+Brewer, Ragan	Wells HS, Wells	8	4	8	X	Alternate
+Hammack, Kevin	Chireno HS, Chireno	4	5	6	X	
+Gilcrease, David	Chireno HS, Chireno	2	6	2	X	
+Lee, Logan	Chireno HS, Chireno	2	6	2	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Wells HS, Wells	1	196	1	20	X	Region
+Computer Science 31
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Cervera, Christian	Utopia HS, Utopia	12	1	15	X	Region
+Keeney, Kyler	Utopia HS, Utopia	8	2	12	X	Region
+Valdez, Kaylie	Utopia HS, Utopia	-10	3	10	X	Region
+Counselman, David	Utopia HS, Utopia	-10	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Utopia HS, Utopia	1	70	1	20	X	Region
+Computer Science 32
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Bazan, Anisah	Austwell-Tivoli HS, Tivoli	4	1	15	X	Region
+Brewer, Ian	Austwell-Tivoli HS, Tivoli	0	2	12	X	Region
+Miranda, Sofia	Austwell-Tivoli HS, Tivoli	0	3	10	X	Region
+Brewer, Amy	Austwell-Tivoli HS, Tivoli	-2	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Austwell-Tivoli HS, Tivoli	1	59	1	20	X	Region
+2A
+Computer Science 1
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+HOLCOMB, ALEXIA	Sanford-Fritch HS, Fritch	52	1	15	X	Region
+Sigala, Kevin	Gruver HS, Gruver	44	2	12	X	Region
+Bardwell, Gavin	Gruver HS, Gruver	44	3	10	X	Region
+Cloud, Race	West Texas HS, Stinnett	38	4	8	X	Alternate
+Freriks, Joseph	West Texas HS, Stinnett	30	5	6	X	
+Kelp, Keegan	Gruver HS, Gruver	26	6	4	X	
+Hunter, Allison	West Texas HS, Stinnett	24	7			
+Villanueva, Keegan	West Texas HS, Stinnett	22	8			
+BROWN, JACOB	Sanford-Fritch HS, Fritch	14	9
+SKAGGS, TYLER	Sanford-Fritch HS, Fritch	4	10
+Johnson, Will	Gruver HS, Gruver	-4	11			
+HALE, LOGAN	Sanford-Fritch HS, Fritch	-14	12
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Gruver HS, Gruver	1	294	1	20	X	Region
+West Texas HS, Stinnett	1	272	2	16	X	Alternate
+Sanford-Fritch HS, Fritch	1	190	3	12	X
+Computer Science 2
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Darbyshire, Wilson	Panhandle HS, Panhandle	20	1	15	X	Region
+Harris, Logan	Wheeler HS, Wheeler	14	2	12	X	Region
+Calhoun, Austin	Wheeler HS, Wheeler	12	3	10	X	Region
+Castillo, Tony	Wheeler HS, Wheeler	6	4	8	X	Alternate
+McGruder, Melody	Wheeler HS, Wheeler	-2	5	6	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Wheeler HS, Wheeler	1	32	1	20	X	Region
+Computer Science 3
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Harper, Aaron	Sudan HS, Sudan	204	1	15	X	Region
+Stephens, Alec	Sudan HS, Sudan	82	2	12	X	Region
+Nunez, Jesus	Sudan HS, Sudan	58	3	10	X	Region
+Lancaster, Nathan	Vega HS, Vega	54	4	8	X	Alternate
+Pierce, Kara	Sudan HS, Sudan	44	5	6	X	
+Nelson, Matthew	Vega HS, Vega	18	6	4	X	
+Stone, Evan	Vega HS, Vega	10	7			
+Knoll, Marie	Vega HS, Vega	-2	8			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Sudan HS, Sudan	1	524	1	20	X	Region
+Vega HS, Vega	1	202	2	16	X	Alternate
+Computer Science 4
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Banta, Reid	Post HS, Post	6	1	15	X	Region
+Dihenia, Chris	Post HS, Post	6	2	13.50	X	Region
+Smith, Colter	Post HS, Post	6	2	13.50	X	Region
+Jackson, Chris	Post HS, Post	0	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Post HS, Post	1	18	1	20	X	Region
+Computer Science 5
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Locklin, Sarah	Sundown HS, Sundown	12	1	15	X	Region
+Lovelace, Slade	Plains HS, Plains	0	2	12	X	Region
+Maldonado, Efren	Sundown HS, Sundown	0	3	10	X	Region
+Kenley, Rebecca	Sundown HS, Sundown	-4	4	8	X	Alternate
+Earnest, Carson	Plains HS, Plains	-12	5	6	X	
+Lewis, Braeden	Plains HS, Plains	-72	6	4	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Sundown HS, Sundown	1	63	1	20	X	Region
+Plains HS, Plains	1	-84	2	16	X	Alternate
+Computer Science 6
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Rogel, Priscilla	Iraan HS, Iraan	36	1	15	X	Region
+Guevara, Andy	Iraan HS, Iraan	16	2	12	X	Region
+Ziegler, Colevin	UTPB STEM Academy, Odessa	14	3	10	X	Region
+Morgan, Mason	Wink HS, Wink	8	4	8	X	Alternate
+Turner, Caleb	UTPB STEM Academy, Odessa	6	5	6	X	
+Stewart, Cory	Wink HS, Wink	0	6	2	X	
+Gray, Nick	Wink HS, Wink	0	6	2	X	
+Whatley, Kaden	UTPB STEM Academy, Odessa	-2	8			
+Wright, Nick	Iraan HS, Iraan	-2	8
+Ortiz, Elena	Iraan HS, Iraan	-4	10
+O'Brien, Kameron	Wink HS, Wink	-10	11			
+Olivas, Enrique	UTPB STEM Academy, Odessa	-22	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Iraan HS, Iraan	1	165	1	20	X	Region
+UTPB STEM Academy, Odessa	1	78	2	16	X	Alternate
+Wink HS, Wink	1	8	3	12	X	
+Computer Science 8
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Castro, Clayton	Stamford HS, Stamford	22	1	15	X	Region
+Marquez, Felipe	Roscoe Collegiate HS, Roscoe	18	2	12	X	Region
+Bhakta, Vinay	Cross Plains HS, Cross Plains	14	3	10	X	Region
+Campbell, Brandon	Stamford HS, Stamford	12	4	7	X	Alternate
+Whittle, Jacob	Stamford HS, Stamford	12	4	7	X	Alternate
+McMillan, Jake	Cross Plains HS, Cross Plains	2	6	4	X
+Moreno, Orlando	Stamford HS, Stamford	0	7
+Potter, Brady	Cross Plains HS, Cross Plains	-4	8
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Stamford HS, Stamford	1	106	1	20	X	Region
+Cross Plains HS, Cross Plains	1	12	2	16	X	Alternate
+Computer Science 9
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Warren, Ally	Archer City HS, Archer City	116	1	15	X	Region
+Knobloch, Coltin	Archer City HS, Archer City	74	2	12	X	Region
+McCasland, Clay	Archer City HS, Archer City	66	3	10	X	Region
+Wilhelm, Jacob	Archer City HS, Archer City	52	4	8	X	Alternate
+Novak, Emily	Seymour HS, Seymour	46	5	6	X	
+Holt, Dwayne	Petrolia HS, Petrolia	20	6	4	X	
+Warren, Caden	Seymour HS, Seymour	8	7			
+Carpenter, Jeb	Olney HS, Olney	6	8
+Pacheco, Ricardo	Olney HS, Olney	4	9
+Marquez, Fatima	Olney HS, Olney	4	9
+Jackson, Jayden	Petrolia HS, Petrolia	0	11			
+Kulhanek, Peyton	Olney HS, Olney	-2	13
+Conley, Jordan	Petrolia HS, Petrolia	-10	14			
+Studer, Wyatt	Seymour HS, Seymour	-10	14			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Archer City HS, Archer City	1	436	1	20	X	Region
+Olney HS, Olney	1	129	2	16	X	Alternate
+Petrolia HS, Petrolia	1	65	3	12	X	
+Seymour HS, Seymour	1	44	4			
+Computer Science 10
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Scott, Jano	De Leon HS, De Leon	122	1	15	X	Region
+Brister, Mackenze	Hico HS, Hico	78	2	12	X	Region
+Villeda, Ramiro	Hico HS, Hico	56	3	10	X	Region
+Ackerman, Kameron	De Leon HS, De Leon	28	4	8	X	Alternate
+Eckstein, Emrys	Goldthwaite HS, Goldthwaite	24	5	6	X
+Oosthuizen, Deon	Goldthwaite HS, Goldthwaite	18	6	4	X
+Bostick, Kevin	Goldthwaite HS, Goldthwaite	16	7
+Martinez, Isaac	Goldthwaite HS, Goldthwaite	8	8
+White, Brody	De Leon HS, De Leon	6	9			
+Williams, Kolbe	De Leon HS, De Leon	4	10			
+Wilson, AJ	Hico HS, Hico	2	11
+Drake, Ashlynn	Hico HS, Hico	0	12
+Sandley, Joseph	Meridian HS, Meridian	-14	13
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+De Leon HS, De Leon	1	331	1	20	X	Region
+Hico HS, Hico	1	256	2	16	X	Alternate
+Goldthwaite HS, Goldthwaite	1	118	3	12	X
+Computer Science 11
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Waneck, Blair J	Muenster HS, Muenster	32	1	15	X	Region
+Parra, Daniel	Chico HS, Chico	26	2	12	X	Region
+Spradlin, Layne	Chico HS, Chico	10	3	10	X	Region
+Paraco, Daniel A	Muenster HS, Muenster	0	4	8	X	Alternate
+Harper, Domanick	Chico HS, Chico	-2	5	6	X	
+Tai, Marienne G	Muenster HS, Muenster	-6	6	4	X	
+McMinn, Cole J	Muenster HS, Muenster	-10	7			
+Sanders, Logan	Chico HS, Chico	-32	8			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Chico HS, Chico	1	154	1	20	X	Region
+Muenster HS, Muenster	1	86	2	16	X	Alternate
+Computer Science 12
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Parks, Elisabeth	Tioga HS, Tioga	84	1	15	X	Region
+Russell, Forrest	Lindsay HS, Lindsay	66	2	12	X	Region
+Sims, Trevor	Lindsay HS, Lindsay	40	3	10	X	Region
+Sawyer, Evan	Tioga HS, Tioga	20	4	7	X	Alternate
+Ballard, Colton	Rayburn HS, Ivanhoe	20	4	7	X	Alternate
+Russell, Allorah	Rayburn HS, Ivanhoe	10	6	4	X
+Smith, Kole	Rayburn HS, Ivanhoe	8	7
+Martinez, Giselle	Tioga HS, Tioga	4	8			
+Stofa, Charlie	Tom Bean HS, Tom Bean	2	9			
+Hernandez, Ruben	Tioga HS, Tioga	0	10			
+Doyle, Cody	Rayburn HS, Ivanhoe	0	10
+Oates, Patrick	Tom Bean HS, Tom Bean	0	10			
+Sims, Alex	Lindsay HS, Lindsay	-4	13
+Farmer, Zach	Tom Bean HS, Tom Bean	-4	13			
+Null, Jason	Tom Bean HS, Tom Bean	-20	15			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Tioga HS, Tioga	1	288	1	20	X	Region
+Lindsay HS, Lindsay	1	222	2	16	X	Alternate
+Rayburn HS, Ivanhoe	1	98	3	12	X
+Tom Bean HS, Tom Bean	1	-2	4	
+Computer Science 14
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Martin, Trey	Martin's Mill HS, Martin's Mill	66	1	15	X	Region
+Reiser, Ashley	Martin's Mill HS, Martin's Mill	22	2	12	X	Region
+Waynick, Tanner	Martin's Mill HS, Martin's Mill	18	3	10	X	Region
+Hatley, Jessica	North Hopkins HS, Sulphur Springs	4	4	7	X	Alternate
+Fernandez, Ingrid	North Hopkins HS, Sulphur Springs	4	4	7	X	Alternate
+Torres, Nayra	North Hopkins HS, Sulphur Springs	2	6	4	X
+Timko, Veronica	North Hopkins HS, Sulphur Springs	-4	7
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Martin's Mill HS, Martin's Mill	1	221	1	20	X	Region
+North Hopkins HS, Sulphur Springs	1	10	2	16	X	Alternate
+Computer Science 15
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Sparks, John	Linden-Kildare HS, Linden	6	1	15	X	Region
+Sherrill, Eithan	Linden-Kildare HS, Linden	2	2	12	X	Region
+Samuel, Deandrey	Linden-Kildare HS, Linden	-2	3	10	X	Region
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Linden-Kildare HS, Linden	1	6	1	20	X	Region
+Computer Science 16
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Strub, Nathaniel	Big Sandy HS, Big Sandy	24	1	15	X	Region
+OWENS, CHANDLER	Union Grove HS, Gladewater	10	2	12	X	Region
+Vine, Gunner	Big Sandy HS, Big Sandy	6	3	10	X	Region
+Martinez, Cain	Big Sandy HS, Big Sandy	-2	4	7	X	Alternate
+Menefee, Dakarai	Big Sandy HS, Big Sandy	-2	4	7	X	Alternate
+Escher, Tyler	Hawkins HS, Hawkins	-4	6	4	X	
+LAMPKIN, BLAKE	Union Grove HS, Gladewater	-4	7
+HANSON, CAMILLE	Union Grove HS, Gladewater	-4	7
+Chick, Cassie	Hawkins HS, Hawkins	-4	7			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Big Sandy HS, Big Sandy	1	198	1	20	X	Region
+Union Grove HS, Gladewater	1	2	2	16	X	Alternate
+Computer Science 18
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Medina, Alvaro	Axtell HS, Axtell	10	1	15	X	Region
+Maxwell, Michael	Axtell HS, Axtell	2	2	12	X	Region
+Sanchez, Michael	Axtell HS, Axtell	-4	3	10	X	Region
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Axtell HS, Axtell	1	8	1	20	X	Region
+Computer Science 19
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Marston, Alex	Cross Roads HS, Malakoff	14	1	15	X	Region
+Cascella, Kyleigha	Itasca HS, Itasca	10	2	12	X	Region
+Greeson, Ethan	Itasca HS, Itasca	10	3	10	X	Region
+Davidson, Aaron	Cross Roads HS, Malakoff	8	4	8	X	Alternate
+Perkins, Johnathon	Cross Roads HS, Malakoff	8	5	6	X	
+Tatom, Allan	Cross Roads HS, Malakoff	4	6	4	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Cross Roads HS, Malakoff	1	30	1	20	X	Region
+Computer Science 20
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Luna, Carlos	Groveton HS, Groveton	78	1	15	X	Region
+Parker, Cade	Slocum HS, Elkhart	56	2	12	X	Region
+Hewett, Elena	Latexo HS, Latexo	20	3	10	X	Region
+Grimaldo, Cason	Slocum HS, Elkhart	18	4	8	X	Alternate
+Francis, Kaylee	Grapeland HS, Grapeland	16	5	5	X	
+Ham, Jessica	Lovelady HS, Lovelady	16	5	5	X	
+Gonzalez, McKenzie	Groveton HS, Groveton	12	7
+Schave, Angel	Latexo HS, Latexo	10	8
+Ryman, Carly	Latexo HS, Latexo	6	9
+Bustamante, Laura	Latexo HS, Latexo	6	9
+Watkins, Blake	Slocum HS, Elkhart	0	11
+Hardcastle, Skylar	Lovelady HS, Lovelady	0	11			
+Brownfield, Ali	Lovelady HS, Lovelady	0	11			
+Gonzalez, Rafael	Groveton HS, Groveton	-4	14
+Fisher, Zachary	Groveton HS, Groveton	-4	14
+Stowe, Janessa	Lovelady HS, Lovelady	-4	14			
+Webb, Walker	Grapeland HS, Grapeland	-10	17			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Groveton HS, Groveton	1	136	1	20	X	Region
+Slocum HS, Elkhart	1	119	2	16	X	Alternate
+Latexo HS, Latexo	1	81	3	12	X
+Lovelady HS, Lovelady	1	16	4		
+Computer Science 21
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Bravo, Stephanie	New Summerfield HS, New Summerfield	38	1	15	X	Region
+Guerrero, Adriana	New Summerfield HS, New Summerfield	20	2	12	X	Region
+Gonzalez, Karla	New Summerfield HS, New Summerfield	16	3	10	X	Region
+Lee, Tori	Cushing HS, Cushing	12	4	8	X	Alternate
+Long, Aiden	Cushing HS, Cushing	8	5	6	X	
+Cotton, Kademon	Mount Enterprise HS, Mount Enterprise	4	6	4	X
+Johnson, Emma	Cushing HS, Cushing	0	7			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+New Summerfield HS, New Summerfield	1	134	1	20	X	Region
+Cushing HS, Cushing	1	20	2	16	X	Alternate
+Computer Science 22
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Prado, Santiago	San Augustine HS, San Augustine	148	1	15	X	Region
+Tapia, Christian	San Augustine HS, San Augustine	116	2	12	X	Region
+Silva, Jose	San Augustine HS, San Augustine	70	3	9	X	Region
+Nance, Casey	San Augustine HS, San Augustine	70	3	9	X	Region
+Allen, Kurtrick	Shelbyville HS, Shelbyville	24	5	6	X	Alternate
+Jackson, Dawson	Shelbyville HS, Shelbyville	8	6	4	X
+Perez, Dominic	Woden HS, Woden	6	7			
+Windham, Dawson	Shelbyville HS, Shelbyville	4	8
+Searles, Andrew	Woden HS, Woden	2	9			
+Powell, Clayton	Shelbyville HS, Shelbyville	0	10
+Guerrero, Robert	Woden HS, Woden	0	10			
+Rangel, Brayden	Woden HS, Woden	-18	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+San Augustine HS, San Augustine	1	454	1	20	X	Region
+Shelbyville H S, Shelbyville	1	36	2	16	X	Alternate
+Computer Science 23
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Mabry, Juluis	Colmesneil HS, Colmesneil	78	1	15	X	Region
+Smith, Gordon	Colmesneil HS, Colmesneil	48	2	12	X	Region
+Perry, Kaleb	West Sabine HS, Pineland	24	3	10	X	Region
+Marshall, Kolyner	Colmesneil HS, Colmesneil	22	4	8	X	Alternate
+Muncrief, Susan	West Sabine HS, Pineland	8	5	6	X	
+Lane, Karson	West Sabine HS, Pineland	6	6		X	
+Fuller, Madison	West Sabine HS, Pineland	6	7	4		
+Gilbert, Isaac	Brookeland HS, Brookeland	4	8			
+Goss, Hunter	Colmesneil HS, Colmesneil	-8	9			
+Perkins, Jack	Brookeland HS, Brookeland	-14	10			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Colmesneil HS, Colmesneil	1	268	1	20	X	Region
+West Sabine HS, Pineland	1	38	2	16	X	Alternate
+Computer Science 24
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Blood, Kirk	Sabine Pass HS, Sabine Pass	224	1	15	X	Region
+Zumwalt, Jacob	Sabine Pass HS, Sabine Pass	162	2	12	X	Region
+Walther, Andrew	Sabine Pass HS, Sabine Pass	74	3	10	X	Region
+Escareno, Noah	Sabine Pass HS, Sabine Pass	40	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Sabine Pass HS, Sabine Pass	1	820	1	20	X	Region
+Computer Science 25
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Wiens, Joshua	Holland HS, Holland	14	1	13.50	X	Region
+Koch, Zoe	Holland HS, Holland	14	1	13.50	X	Region
+Lourcey, Hayden	Holland HS, Holland	-4	3	10	X	Region
+Kriczky, Joseph	Holland HS, Holland	-12	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Holland HS, Holland	1	24	1	20	X	Region
+Computer Science 27
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Simpson, Marah	Harper HS, Harper	156	1	15	X	Region
+Oblogin, Vadym	Harper HS, Harper	86	2	12	X	Region
+Fotschky, Josh	Harper HS, Harper	80	3	10	X	Region
+Edmonson, James	Mason HS, Mason	32	4	8	X	Alternate
+Harwell, Jason	Mason HS, Mason	6	5	6	X	
+Brandenberger, Colten	Mason HS, Mason	6	6	4	X	
+Oblogina, Rita	Harper HS, Harper	6	7
+Davila, Enrique	San Saba HS, San Saba	6	8			
+Garcia, Victoria	San Saba HS, San Saba	4	9			
+Galindo, Tommy	San Saba HS, San Saba	-6	10			
+Gleghorn, James	Mason HS, Mason	-32	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Harper HS, Harper	1	442	1	20	X	Region
+Mason HS, Mason	1	279	2	16	X	Alternate
+San Saba HS, San Saba	1	4	3	12	X	
+Computer Science 28
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Britton, Dakota	Brackett HS, Brackettville	172	1	15	X	Region
+Eckenrod, Mason	Brackett HS, Brackettville	170	2	12	X	Region
+Allen, Jake	Brackett HS, Brackettville	156	3	10	X	Region
+O'Malley, Conner S.	Stacey HS, San Antonio	50	4	8	X	Alternate
+Malloy, Ava	Brackett HS, Brackettville	42	5	6	X	
+Moralez, Michael	Charlotte HS, Charlotte	28	6	4	X	
+Tijerina, Raymond G	Charlotte HS, Charlotte	4	7			
+Stubbs, Cedric R.	Stacey HS, San Antonio	4	7
+Torres, Tobey	La Pryor HS, La Pryor	-4	9
+Ramos-Martinez, Leobardo	Charlotte HS, Charlotte	-12	10			
+Garcia, Vincent	La Pryor HS, La Pryor	-14	11
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Brackett HS, Brackettville	1	913	1	20	X	Region
+Charlotte HS, Charlotte	1	140	2	16	X	Alternate
+Computer Science 29
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Cerda, Aaron	Brazos HS, Wallis	30	1	15	X	Region
+Pedroza, Jairo	Brazos HS, Wallis	30	2	12	X	Region
+Warren, Schuyler	Shiner HS, Shiner	14	3	9	X	Region
+Rosas, Drey	Weimar HS, Weimar	14	3	9	X	Region
+Dunham, Leyton	Brazos HS, Wallis	4	5	6	X	Alternate
+Heiman, Garrett	Shiner HS, Shiner	2	6	2	X	
+Barlow, Jaxson	Weimar HS, Weimar	2	6	2	X	
+Roy, Dawson	Shiner HS, Shiner	-4	8			
+Baker, Braydon	Shiner HS, Shiner	-6	9			
+Milligan, Jordan	Weimar HS, Weimar	-6	9			
+Williams, Alexy	Weimar HS, Weimar	-8	11			
+Dotson, Derek	Brazos HS, Wallis	-10	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Brazos HS, Wallis	1	124	1	20	X	Region
+Shiner HS, Shiner	1	12	2	16	X	Alternate
+Weimar HS, Weimar	1	10	3	12	X	
+Computer Science 32
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Garcia, Marco	La Villa HS, La Villa	24	1	15	X	Region
+Rodriguez, Jacob	La Villa HS, La Villa	10	2	10	X	Region
+Zuniga, Miguel	San Isidro HS, San Isidro	10	2	10	X	Region
+Conde, Giovanni	Lasara HS, Lasara	10	2	10	X	Region
+Flores, Allen	San Isidro HS, San Isidro	10	5	6	X	Alternate
+Ozuna, Rey	San Isidro HS, San Isidro	6	6	4	X	
+Hernandez, Adian	La Villa HS, La Villa	0	7			
+Casanova, Juan	La Villa HS, La Villa	-2	8			
+Ramirez, Brian	Lasara HS, Lasara	-2	8
+Goss, Darell	Lasara HS, Lasara	-6	10
+Gamboa, Manuel	Santa Maria HS, Santa Maria	-8	11			
+Serrata, Jose	Santa Maria HS, Santa Maria	-10	12			
+Contreras, Daisy	Lasara HS, Lasara	-12	13
+Aleman, Kristen	Santa Maria HS, Santa Maria	-22	14			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+La Villa HS, La Villa	1	94	1	20	X	Region
+Lasara HS, Lasara	1	57	2	16	X	Alternate
+Santa Maria HS, Santa Maria	1	-40	3	12	X	
+3A
+Computer Science 1
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Cook, Quinn	Canadian HS, Canadian	110	1	15	X	Region
+Esparza, Geo	Canadian HS, Canadian	84	2	12	X	Region
+Brown, Arthur	Canadian HS, Canadian	48	3	10	X	Region
+Haseloff, Kynton	Muleshoe HS, Muleshoe	26	4	8	X	Alternate
+Blanco, Misael	Canadian HS, Canadian	12	5	6	X	
+Manzanales, Mercy	Muleshoe HS, Muleshoe	10	6	4	X
+Toscano, Valerie	Muleshoe HS, Muleshoe	8	7
+Orr, Seth	River Road HS, Amarillo	6	8			
+Hewett, Deric	River Road HS, Amarillo	0	9			
+Griffin, Dax	Bushland HS, Bushland	-2	10			
+Braddock, Brock	Bushland HS, Bushland	-6	11			
+Daniels, Ryan	River Road HS, Amarillo	-10	12			
+Chico, Torya	Friona HS, Friona	-26	13
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Canadian HS, Canadian	1	357	1	20	X	Region
+Muleshoe HS, Muleshoe	1	44	2	16	X	Alternate
+River Road HS, Amarillo	1	-4	4		
+Computer Science 3
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Caddell, Dylan	Idalou HS, Idalou	134	1	15	X	Region
+Emery, Evan	Idalou HS, Idalou	94	2	12	X	Region
+Bullock, Alexis	Denver City HS, Denver City	50	3	10	X	Region
+Trevino, Alexander	Roosevelt HS, Lubbock	36	4	8	X	Alternate
+Kerr, Burl	Idalou HS, Idalou	30	5	5	X
+Wims, Fallon	Idalou HS, Idalou	30	6	5	X
+Langehennig, Ryan	Denver City HS, Denver City	24	7
+Montoya, Gilbert	Abernathy HS, Abernathy	20	8			
+Salcedo, Dazni	Abernathy HS, Abernathy	20	8			
+Moore, Grant	Abernathy HS, Abernathy	20	8			
+Fink, Kaitlyn	Shallowater HS, Shallowater	8	11			
+Allen, Logan	Shallowater HS, Shallowater	6	12			
+Harbison, Quincy	Shallowater HS, Shallowater	0	13			
+Zubiate, Ramon	Denver City HS, Denver City	0	13
+Duran, Vivianna	Roosevelt HS, Lubbock	0	13			
+Townes, Christina	Denver City HS, Denver City	-10	16
+Cortez, Stephen	Abernathy HS, Abernathy	-16	17			
+McKay, James	Shallowater HS, Shallowater	-20	18			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Idalou HS, Idalou	1	553	1	20	X	Region
+Denver City HS, Denver City	1	189	2	16	X	Alternate
+Abernathy HS, Abernathy	1	100	3	12	X	
+Shallowater HS, Shallowater	1	14	4	
+Computer Science 4
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Chapman, Cole	Wall HS, Wall	224	1	15	X	Region
+Watkins, Justis	Wall HS, Wall	194	2	12	X	Region
+Hudson, Chris	Wall HS, Wall	192	3	10	X	Region
+Shannon, Evan	Sonora HS, Sonora	122	4	8	X	Alternate
+Holtman, Caroline	Wall HS, Wall	120	5	6	X	
+Alvarez, Kaylynn	Sonora HS, Sonora	60	6	4	X	
+Kincanon, Nolan	Sonora HS, Sonora	46	7			
+Laureles, Jacob	Brady HS, Brady	14	8			
+Peaslee, Harrison	Sonora HS, Sonora	8	9			
+Bucholtz, Ledger	Brady HS, Brady	-2	10			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Wall HS, Wall	1	1025	1	20	X	Region
+Sonora HS, Sonora	1	348	2	16	X	Alternate
+Computer Science 5
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Hankins, Daniel	Merkel HS, Merkel	20	1	15	X	Region
+Murphree, Melody	Clyde HS, Clyde	10	2	12	X	Region
+Schowengerdt, Conner	Clyde HS, Clyde	8	3	10	X	Region
+Harris, Sydney	Stanton HS, Stanton	2	4	8	X	Alternate
+Wheeler, Aaron	Stanton HS, Stanton	-2	5	6	X
+Hopper, Kylee	Clyde HS, Clyde	-10	6	4	X
+Alton, Dylan	Stanton HS, Stanton	-16	7
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Clyde HS, Clyde	1	8	1	20	X	Region
+Stanton HS, Stanton	1	-16	2	16	X	Alternate
+Computer Science 6
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Woolridge, Dylan	Early HS, Early	86	1	13.50	X	Region
+Clark, Emily	Cisco HS, Cisco	86	1	13.50	X	Region
+Jones, Bailey	Early HS, Early	30	3	10	X	Region
+Hendrix, Kyle	Early HS, Early	26	4	8	X	Alternate
+Puryear, Lucas	Coleman HS, Coleman	24	5	6	X	
+Peters, Darryn	Early HS, Early	22	6	4	X
+Peace, Jake	Cisco HS, Cisco	18	7			
+Bowers, Tait	Bangs HS, Bangs	16	8			
+Jones, Kevin	Coleman HS, Coleman	12	9			
+Moran, Emily	Coleman HS, Coleman	8	10			
+Hughitt, Emily	Comanche HS, Comanche	6	11			
+Davalos, Alex	Comanche HS, Comanche	2	12			
+Bhakta, Shlok	Cisco HS, Cisco	0	13			
+Arreola, Gabby	Comanche HS, Comanche	0	13			
+Hunter, Denver	Coleman HS, Coleman	-8	15			
+Gilliam, John	Comanche HS, Comanche	-8	15			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Cisco HS, Cisco	1	344	1	20	X	Region
+Early HS, Early	1	297	2	16	X	Alternate
+Coleman HS, Coleman	1	154	3	12	X	
+Comanche HS, Comanche	1	8	4			
+Computer Science 7
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Moon, Landon	Brock HS, Brock	158	1	15	X	Region
+Clapp, Ethan	Brock HS, Brock	110	2	12	X	Region
+O'Grady, Colin	Brock HS, Brock	38	3	10	X	Region
+Russell, Hannah	Jacksboro HS, Jacksboro	34	4	8	X	Alternate
+Rushin, Sara	Jacksboro HS, Jacksboro	16	5	5	X
+Glidewell, Grayson	Jacksboro HS, Jacksboro	16	5	5	X
+Kelly, Joshua	Brock HS, Brock	4	7			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Brock HS, Brock	1	651	1	20	X	Region
+Jacksboro HS, Jacksboro	1	121	2	16	X	Alternate
+Computer Science 8
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+VanAllen, Sarah, E	Bowie HS, Bowie	148	1	15	X	Region
+Otto, Zackary, M	Bowie HS, Bowie	122	2	12	X	Region
+Masingale, Katelyn, R	Bowie HS, Bowie	96	3	10	X	Region
+DeWolfe, Nicole	Bowie HS, Bowie	42	4	8	X	Alternate
+Thompson, Roy	Childress HS, Childress	12	5	6	X	
+Case, Jackson	Holliday HS, Holliday	10	6	4	X
+Revis, Andres	Holliday HS, Holliday	6	7
+Draper, Andrew	Holliday HS, Holliday	2	8
+Lim, Cesar	Childress HS, Childress	0	9			
+Bellar, Clayton	Childress HS, Childress	-8	10			
+Scherff, Alyssa	Holliday HS, Holliday	-10	11
+Stingel, Sam	Childress HS, Childress	-26	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Bowie HS, Bowie	1	606	1	20	X	Region
+Holliday HS, Holliday	1	138	2	16	X	Alternate
+Childress HS, Childress	1	4	3	12	X
+Computer Science 9
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Vanderwal, Tim	Ponder HS, Ponder	174	1	15	X	Region
+Pham, Alex	Callisburg HS, Gainesville	112	2	12	X	Region
+Daniel, Koelzer	Ponder HS, Ponder	100	3	10	X	Region
+Lones, Zoe	Callisburg HS, Gainesville	42	4	8	X	Alternate
+Ramsey, Jackson	Whitesboro HS, Whitesboro	42	5	6	X	
+Martinson, Victoria	Callisburg HS, Gainesville	40	6	4	X	
+Koskinas, Patrikios	Ponder HS, Ponder	20	7			
+Rau, Katrina	Whitesboro HS, Whitesboro	14	8			
+Ing, Trevor	Callisburg HS, Gainesville	14	9			
+Koskinas, Apostolos	Ponder HS, Ponder	8	10			
+Lynn, Hannah	Whitesboro HS, Whitesboro	2	11			
+Meeks, Kinsley	Whitesboro HS, Whitesboro	-8	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Ponder HS, Ponder	1	654	1	20	X	Region
+Callisburg HS, Gainesville	1	374	2	16	X	Alternate
+Whitesboro HS, Whitesboro	1	118	3	12	X	
+Computer Science 12
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Jones, Kyle	Lone Oak HS, Lone Oak	128	1	15	X	Region
+Blalock, Justin	Quitman HS, Quitman	112	2	12	X	Region
+Lynch, Bradon	Lone Oak HS, Lone Oak	70	3	10	X	Region
+Thompson, Jacob	Lone Oak HS, Lone Oak	52	4	8	X	Alternate
+Perez, Alan	Lone Oak HS, Lone Oak	30	5	6	X	
+Rapp, Patrick	Edgewood HS, Edgewood	16	6	4	X	
+Brust, JT	Mineola HS, Mineola	14	7
+Whitcomb, Adison	Edgewood HS, Edgewood	12	8			
+Hartman, Grace	Edgewood HS, Edgewood	12	9			
+Goss, Ashton	Quitman HS, Quitman	6	10			
+Fry, Mike	Quitman HS, Quitman	4	11			
+Gonzalez, Martin	Grand Saline HS, Grand Saline	4	12
+Pierce, Chance	Edgewood HS, Edgewood	-4	13			
+Renaud, Mateo	Mineola HS, Mineola	-4	14
+Schedule, Mason	Grand Saline HS, Grand Saline	-6	15
+Spurgeon, Michael	Mineola HS, Mineola	-8	16
+Starnes, Dylan	Grand Saline HS, Grand Saline	-10	17
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Lone Oak HS, Lone Oak	1	490	1	20	X	Region
+Quitman HS, Quitman	1	302	2	16	X	Alternate
+Grand Saline HS, Grand Saline	1	48	3	12	X
+Edgewood HS, Edgewood	1	40	4			
+Mineola HS, Mineola	1	2	5
+Computer Science 13
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Swiger, Benjamin	Chapel Hill HS, Mt Pleasant	140	1	15	X	Region
+Minter, Ben	Mount Vernon HS, Mount Vernon	128	2	12	X	Region
+Gribble, Alex	Chisum HS, Paris	106	3	10	X	Region
+Turney, Elais	Winnsboro HS, Winnsboro	78	4	8	X	Alternate
+Mejia, Josue	Chapel Hill HS, Mt Pleasant	68	5	6	X	
+Martinez, Sarai	Chapel Hill HS, Mt Pleasant	60	6	4	X	
+Sears, Hadley	Mount Vernon HS, Mount Vernon	54	7
+Minter, Erick	Mount Vernon HS, Mount Vernon	44	8
+Angel, Daniel	Commerce HS, Commerce	44	8			
+Hood, Harley	Mount Vernon HS, Mount Vernon	28	10
+Thomas, Cameron	Chapel Hill HS, Mt Pleasant	20	11			
+Folse, Tabytha J	Prairiland HS, Pattonville	18	12			
+Nippani, Rishi	Commerce HS, Commerce	18	12			
+Rogers, Brianna	Chisum HS, Paris	14	14			
+Green, Connor	Commerce HS, Commerce	12	15			
+Mead, Tyler	Chisum HS, Paris	8	16			
+Jameson, Megan	Prairiland HS, Pattonville	6	17			
+Gilbert, Lily	Prairiland HS, Pattonville	4	18			
+Martin, Evan	Chisum HS, Paris	4	18			
+Zimmer, Erich	Winnsboro HS, Winnsboro	2	20			
+Francis, Jessica	Prairiland HS, Pattonville	0	21			
+Youngman, Noah	Winnsboro HS, Winnsboro	0	21			
+Goff, Jacob	Cooper HS, Cooper	-18	23			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Chapel Hill HS, Mt Pleasant	1	508	1	20	X	Region
+Mount Vernon HS, Mount Vernon	1	401	2	16	X	Alternate
+Winnsboro HS, Winnsboro	1	255	3	12	X	
+Chisum HS, Paris	1	248	4			
+Commerce HS, Commerce	1	194	5			
+Prairiland HS, Pattonville	1	88	6	
+Computer Science 14
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Williams, Cadarius	Atlanta HS, Atlanta	30	1	15	X	Region
+Reynolds, Kyle	Atlanta HS, Atlanta	30	2	12	X	Region
+Cochran, Chris	New Boston HS, New Boston	24	3	10	X	Region
+Davis, Trevor	Pewitt HS, Omaha	12	4	8	X	Alternate
+Brown, Dylan	New Boston HS, New Boston	8	5	6	X
+Nadig, Bo	Queen City HS, Queen City	4	6	4	X	
+Harvey, Robby	Pewitt HS, Omaha	4	7			
+Mayfield, Haileigh	Atlanta HS, Atlanta	0	8			
+Sullivan, Joe	Pewitt HS, Omaha	-2	9			
+Cox, Nicholas	New Boston HS, New Boston	-16	10
+Sheridan, Michael	New Boston HS, New Boston	-32	11
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Atlanta HS, Atlanta	1	120	1	20	X	Region
+New Boston HS, New Boston	1	71	2	16	X	Alternate
+Pewitt HS, Omaha	1	14	3	12	X
+Computer Science 15
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Rainwater, Julian M	Tatum HS, Tatum	134	1	15	X	Region
+Chavez, Cristian I	Tatum HS, Tatum	118	2	12	X	Region
+Johnson, Trent D	Tatum HS, Tatum	72	3	10	X	Region
+Nail, Nolan A	Tatum HS, Tatum	64	4	8	X	Alternate
+Goergens, Jan	Hughes Springs HS, Hughes Springs	36	5	6	X	
+Brannin, Jesse	Elysian Fields HS, Elysian Fields	20	6	4	X
+Schaefer, Wyatt	Hughes Springs HS, Hughes Springs	16	7			
+Brock, Dalton	Hughes Springs HS, Hughes Springs	14	8			
+Anzalone, Dylan	Ore City HS, Ore City	12	9
+Belew, Dylan	Ore City HS, Ore City	10	10
+Braden, Michael	Elysian Fields HS, Elysian Fields	10	10
+Choi, Tyler	Elysian Fields HS, Elysian Fields	10	10
+Gooch, Justice	Elysian Fields HS, Elysian Fields	8	13
+Clark, Matthew	Ore City HS, Ore City	6	14
+Edwards, Caden	Hughes Springs HS, Hughes Springs	6	14			
+Riddens, Tanner	Ore City HS, Ore City	0	16
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Tatum HS, Tatum	1	624	1	20	X	Region
+Hughes Springs HS, Hughes Springs	1	186	2	16	X	Alternate
+Ore City HS, Ore City	1	143	3	12	X
+Elysian Fields HS, Elysian Fields	1	40	4
+Computer Science 16
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Lease, Adoni	Sabine HS, Gladewater	44	1	15	X	Region
+Courson, Talon	Sabine HS, Gladewater	36	2	12	X	Region
+Nicholson, William	Sabine HS, Gladewater	14	3	10	X	Region
+Boone, Carter	Sabine HS, Gladewater	10	4	8	X	Alternate
+Banks, Ryan	White Oak HS, White Oak	10	5	6	X	
+Barr, Jalen	White Oak HS, White Oak	8	6	4	X	
+McGrew, Colin	Harmony HS, Big Sandy	8	7
+Parks, Seth	Harmony HS, Big Sandy	6	8
+Bort, Michael	White Oak HS, White Oak	2	9			
+Salinas, Alondra	Troup HS, Troup	0	10			
+Covington, Dustin	White Oak HS, White Oak	-4	11			
+Bozard, Liley	Troup HS, Troup	-8	12			
+Phillips, Jacob	Harmony HS, Big Sandy	-10	13
+Jackson, Ambrosia	Troup HS, Troup	-14	14			
+Gregory, Juston	Harmony HS, Big Sandy	-24	15
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Sabine HS, Gladewater	1	214	1	20	X	Region
+White Oak HS, White Oak	1	75	2	16	X	Alternate
+Computer Science 17
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Tremaine, Jeremey A	Keene HS, Keene	114	1	15	X	Region
+Richard, Cody B	Keene HS, Keene	40	2	12	X	Region
+Carney, Matthew	Grandview HS, Grandview	32	3	10	X	Region
+Campos, Nicholas	Keene HS, Keene	30	4	8	X	Alternate
+Madore, Felicity	Grandview HS, Grandview	18	5	6	X
+Robertson, Shane	Grandview HS, Grandview	-2	6	4	X
+Scott, River	Grandview HS, Grandview	-6	7
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Keene HS, Keene	1	364	1	20	X	Region
+Grandview HS, Grandview	1	163	2	16	X	Alternate
+Computer Science 18
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Stout, Danny	Eustace HS, Eustace	46	1	15	X	Region
+Garcia, Guadalupe	Eustace HS, Eustace	18	2	12	X	Region
+Rudman, Dominik	Eustace HS, Eustace	14	3	10	X	Region
+Taylor, James	Mildred HS, Corsicana	12	4	8	X	Alternate
+Hernandez, Alondra	Rice HS, Rice	8	5	6	X	
+Ramirez, Angelina	Rice HS, Rice	6	6	2	X	
+Beltran, Jose	Rice HS, Rice	6	6	2	X	
+Collier, Jared	Mildred HS, Corsicana	0	8
+Solis, Caleb	Mildred HS, Corsicana	0	8
+Maldonado, Billy	Mildred HS, Corsicana	-18	10
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Eustace HS, Eustace	1	198	1	20	X	Region
+Mildred HS, Corsicana	1	127	2	16	X	Alternate
+Rice HS, Rice	1	20	3	12	X	
+Computer Science 19
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Camacho, Jorge	McGregor HS, McGregor	90	1	15	X	Region
+McDaniel, Caleb	Lexington HS, Lexington	34	2	12	X	Region
+Ferguson, Logan	McGregor HS, McGregor	16	3	10	X	Region
+Rhodes, Spencer	Lexington HS, Lexington	14	4	8	X	Alternate
+Perez, Gabriel	Yoe HS, Cameron	12	5	6	X	
+Ortega, Chris	McGregor HS, McGregor	10	6	4	X
+Bradshaw, Kolby	Lexington HS, Lexington	6	7
+Martin, Riley	McGregor HS, McGregor	6	7
+Bull, Logan	Rogers HS, Rogers	6	7
+Oosse, Deagen	Troy HS, Troy	4	10
+Deal, Kolton	Yoe HS, Cameron	2	11			
+Bartlett, Tanner	Troy HS, Troy	-4	12
+Maks, Dillon	Troy HS, Troy	-6	13
+Dillon, Jeremiah	Lexington HS, Lexington	-6	13
+Pelley, Jacob	Rogers HS, Rogers	-10	15
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+McGregor HS, McGregor	1	236	1	20	X	Region
+Lexington HS, Lexington	1	109	2	16	X	Alternate
+Troy HS, Troy	1	-6	3	12	X
+Computer Science 20
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Sparkman, Tucker	Elkhart HS, Elkhart	144	1	15	X	Region
+Rider, Colton	Elkhart HS, Elkhart	100	2	12	X	Region
+Andrews, William	Elkhart HS, Elkhart	90	3	10	X	Region
+Fogle, Kevin	Elkhart HS, Elkhart	52	4	8	X	Alternate
+Chase, Bailey	Buffalo HS, Buffalo	10	5	6	X	
+Payne, Jonathan	Teague HS, Teague	6	6	4	X	
+Lopez, Andrew	Teague HS, Teague	4	7			
+Peters, Cache	Teague HS, Teague	4	7			
+Bosh, Charles	Buffalo HS, Buffalo	0	9			
+Pokryska, Jeff	Buffalo HS, Buffalo	-2	10			
+Neal, Warren	Teague HS, Teague	-18	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Elkhart HS, Elkhart	1	574	1	20	X	Region
+Teague HS, Teague	1	69	2	16	X	Alternate
+Buffalo HS, Buffalo	1	68	3	12	X	
+Computer Science 21
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Young, Baylor	Central HS, Pollok	124	1	15	X	Region
+Doyle, Cody	Central HS, Pollok	18	2	12	X	Region
+Runnels, Zach	Central HS, Pollok	10	3	10	X	Region
+Casey, Adam	Hemphill HS, Hemphill	6	4	8	X	Alternate
+Willoughby, Colton	Hemphill HS, Hemphill	4	5	6	X
+Bush, James	Newton HS, Newton	2	6	4	X
+Guzman-Salinas, Victoria	Newton HS, Newton	0	7
+Castor, Jacqueline	Hemphill HS, Hemphill	0	7
+Johnson, Anthony	Hemphill HS, Hemphill	-12	9
+Parrish, Jared	Newton HS, Newton	-14	10
+Floyd, Selia	Newton HS, Newton	-48	11
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Central HS, Pollok	1	272	1	20	X	Region
+Hemphill HS, Hemphill	1	10	2	16	X	Alternate
+Computer Science 24
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Castanon, Daniel	Palacios HS, Palacios	152	1	15	X	Region
+Engel, Jackson	Palacios HS, Palacios	116	2	12	X	Region
+Mikeska, Kaleb	Palacios HS, Palacios	116	3	10	X	Region
+Zamarripa, Noah	Palacios HS, Palacios	92	4	8	X	Alternate
+Smith, Parker	Danbury HS, Danbury	24	5	6	X
+Williams, James	Danbury HS, Danbury	22	6	4	X
+Lee, Cole	East Bernard HS, East Bernard	18	7
+Zapalac, Elijah	East Bernard HS, East Bernard	12	8
+Hannah, Daleon	Boling HS, Boling	8	9			
+Irvin, Garrett	Danbury HS, Danbury	4	10
+Cubias, Jose	East Bernard HS, East Bernard	2	11
+Williams, Josh	Danbury HS, Danbury	-4	12
+Castillo, Victoria	Boling HS, Boling	-4	12			
+Rivera, Colby	East Bernard HS, East Bernard	-18	14
+Conde, Jose	Boling HS, Boling	-20	15			
+Alvarez, Trace	Boling HS, Boling	-22	16			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Palacios HS, Palacios	1	624	1	20	X	Region
+Danbury HS, Danbury	1	170	2	16	X	Alternate
+Boling HS, Boling	1	44	3	12	X	
+East Bernard HS, East Bernard	1	32	4
+Computer Science 26
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Adlawan, Bren	Randolph HS, Universal City	132	1	15	X	Region
+Huerta, R J	Cole HS, San Antonio	130	2	12	X	Region
+Perera, Anton	BASIS Shavano HS, San Antonio	128	3	10	X	Region
+Brock, Spencer	Randolph HS, Universal City	122	4	8	X	Alternate
+Perera, Colin	BASIS Shavano HS, San Antonio	110	5	6	X	
+King, David	Randolph HS, Universal City	108	6	4	X	
+Harrison, Ryan	Randolph HS, Universal City	104	7			
+Tranbarger, Preston	BASIS Shavano HS, San Antonio	102	8			
+Hafer, Chase	Cole HS, San Antonio	72	9			
+Schlunegger, Grant	Ingram Tom Moore HS, Ingram	72	9			
+Grim, Jasmine	Cole HS, San Antonio	58	11			
+Templeton, Clay	Ingram Tom Moore HS, Ingram	56	12			
+Mishra, Prateek	BASIS Shavano HS, San Antonio	50	13			
+Jenkins, Noah	Cole HS, San Antonio	24	14			
+Cathey, Paige	Ingram Tom Moore HS, Ingram	12	15			
+Jones, Tyler	Ingram Tom Moore HS, Ingram	12	15			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Randolph HS, Universal City	1	717	1	20	X	Region
+Basis Shavano HS, San Antonio	1	510	2	16	X	Alternate
+Cole HS, San Antonio	1	500	3	12	X	
+Ingram HS, Ingram	1	255	4
+Computer Science 28
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Wilfert, Aaron B	Industrial HS, Vanderbilt	64	1	15	X	Region
+Herchek, Evan	Columbus HS, Columbus	56	2	12	X	Region
+Renner, Luke	Hallettsville HS, Hallettsville	46	3	10	X	Region
+LaDue, Gavin	Hallettsville HS, Hallettsville	34	4	8	X	Alternate
+Garcia, Keegan	Columbus HS, Columbus	20	5	6	X	
+Aguilar, Vincent	Ganado HS, Ganado	18	6	4	X	
+Hua, Brian	Rice HS, Altair	14	7
+Stoner, Colton	Hallettsville HS, Hallettsville	8	8
+Delgado, Andrea	Hallettsville HS, Hallettsville	8	8
+Sanchez, Evelyn	Columbus HS, Columbus	8	8			
+Nuells, Cerik	Industrial HS, Vanderbilt	2	11
+Pieprzyca, Straton	Rice HS, Altair	0	12
+Herring, Camdyn	Rice HS, Altair	0	12
+Vega, Even	Columbus HS, Columbus	0	12			
+Garza, Isaac	Ganado HS, Ganado	-2	15			
+Pieprzyca, Taygon	Rice HS, Altair	-10	16
+Hernandez, Monica	Ganado HS, Ganado	-14	17			
+Smith, Conner	Ganado HS, Ganado	-46	18			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Hallettsville HS, Hallettsville	1	263	1	20	X	Region
+Columbus HS, Columbus	1	204	2	16	X	Alternate
+Rice HS, Altair	1	74	3	12	X
+Ganado HS, Ganado	1	2	4	
+Computer Science 29
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Bellamy, Trevor	Goliad HS, Goliad	144	1	15	X	Region
+Schoener, Cecilia	Goliad HS, Goliad	74	2	12	X	Region
+Cosper, Mae	Goliad HS, Goliad	72	3	10	X	Region
+Norwood, Ian	Goliad HS, Goliad	64	4	8	X	Alternate
+Chadwick, Sebastian	Aransas Pass HS, Aransas Pass	18	5	6	X	
+Stephens, Gavin	Aransas Pass HS, Aransas Pass	16	6	4	X	
+Baldovino, Jhan	Skidmore-Tynan HS, Skidmore	10	7			
+Hensch, Alton	Skidmore-Tynan HS, Skidmore	8	8			
+Teer, Nick	Aransas Pass HS, Aransas Pass	8	8			
+Campos, Jacob	Skidmore-Tynan HS, Skidmore	2	10			
+Dougherty, Jacob	Skidmore-Tynan HS, Skidmore	-6	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Goliad HS, Goliad	1	405	1	20	X	Region
+Skidmore-Tynan HS, Skidmore	1	80	2	16	X	Alternate
+Aransas Pass HS, Aransas Pass	1	42	3	12	X
+Computer Science 30
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Martinez, Victoria	Natalia HS, Natalia	86	1	15	X	Region
+Ramon, Sabrina	Natalia HS, Natalia	44	2	12	X	Region
+Duque, Joshua	Dilley HS, Dilley	42	3	10	X	Region
+Helgeson, Isaiah	Natalia HS, Natalia	22	4	8	X	Alternate
+Rivera, Andres	Cotulla HS, Cotulla	12	5	6	X	
+Garcia, Hector	Cotulla HS, Cotulla	4	6	4	X	
+Tijerina, Gabe	Dilley HS, Dilley	0	7			
+Kiniskey, Marc Anthony	Cotulla HS, Cotulla	-4	8			
+Mata, Celeste	Natalia HS, Natalia	-4	8
+Muriel, James	Cotulla HS, Cotulla	-12	10			
+Martel, Ruben	Dilley HS, Dilley	-14	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Natalia HS, Natalia	1	272	1	20	X	Region
+Dilley HS, Dilley	1	208	2	16	X	Alternate
+Cotulla HS, Cotulla	1	72	3	12	X	
+4A
+Computer Science 2
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Loyless, Caleb	Andrews HS, Andrews	108	1	15	X	Region
+Sewell, Jermany	Andrews HS, Andrews	96	2	12	X	Region
+Stallings, Leyla	Andrews HS, Andrews	88	3	10	X	Region
+Mora, Kevin	Andrews HS, Andrews	80	4	8	X	Alternate
+Savage, Ty M	Fort Stockton HS, Fort Stockton	44	5	6	X
+Sinclair, Kolten	Seminole HS, Seminole	28	6	4	X
+Dodson, Damian M	Fort Stockton HS, Fort Stockton	20	7
+O'Brien, Nathaniel J	Fort Stockton HS, Fort Stockton	16	8
+Knelson, Justin	Seminole HS, Seminole	6	9
+Wiebe, Bryan	Seminole HS, Seminole	-8	10
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Andrews HS, Andrews	1	532	1	20	X	Region
+Fort Stockton HS, Fort Stockton	1	200	2	16	X	Alternate
+Seminole HS, Seminole	1	26	3	12	X
+Computer Science 3
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Eason, Andrew	Canyon HS, Canyon	176	1	15	X	Region
+Koontz, Kendall	Canyon HS, Canyon	50	2	12	X	Region
+Hurst, Jacob	Canyon HS, Canyon	16	3	10	X	Region
+Clary, Avaery	Levelland HS, Levelland	12	4	8	X	Alternate
+Wortham, Chandler	Levelland HS, Levelland	4	5	6	X
+Koontz, Edwin	Canyon HS, Canyon	-6	6	4	X	
+Riddle, Noah	Levelland HS, Levelland	-6	7
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Canyon HS, Canyon	1	362	1	20	X	Region
+Levelland HS, Levelland	1	10	2	16	X	Alternate
+Computer Science 4
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Townsend, Cole	Perryton HS, Perryton	176	1	15	X	Region
+Hansen, Mads	Perryton HS, Perryton	74	2	12	X	Region
+Moreno, Bryan	Perryton HS, Perryton	56	3	10	X	Region
+Contreras, Jaziel	Perryton HS, Perryton	36	4	8	X	Alternate
+Armendariz, Ryan	Borger HS, Borger	22	5	6	X	
+Bailey, Pearson	Borger HS, Borger	14	6	4	X	
+Corral, Yahaira	Dumas HS, Dumas	8	7
+Gracida, Gabby	Dumas HS, Dumas	6	8
+Aldava, Sonia	Dumas HS, Dumas	6	8
+Williams, Taylor	Pampa HS, Pampa	4	10			
+Vigil, Isaiah	Pampa HS, Pampa	0	11			
+Hipolito, Grace	Borger HS, Borger	0	11			
+Gomez, Marcos	Dumas HS, Dumas	-8	13
+Frost, Matthew	Pampa HS, Pampa	-8	13			
+Martinez, Brayan	Pampa HS, Pampa	-38	15			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Perryton HS, Perryton	1	486	1	20	X	Region
+Borger HS, Borger	1	96	2	16	X	Alternate
+Pampa HS, Pampa	1	56	3	12	X	
+Dumas HS, Dumas	1	20	4
+Computer Science 5
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Kerr, Evelyn	Snyder HS, Snyder	110	1	15	X	Region
+Desai, Rutik	Snyder HS, Snyder	30	2	12	X	Region
+Jones, Spence	Snyder HS, Snyder	22	3	10	X	Region
+Porter, Matthew	Snyder HS, Snyder	6	4	8	X	Alternate
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Snyder HS, Snyder	1	162	1	20	X	Region
+Computer Science 6
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Ganeshram, Sonya	Hirschi HS, Wichita Falls	138	1	15	X	Region
+Reddy, Krishna	Hirschi HS, Wichita Falls	114	2	11	X	Region
+Antonyuk, Oleksiy	Burkburnett HS, Burkburnett	114	2	11	X	Region
+Booker, Jonathan	Burkburnett HS, Burkburnett	108	4	8	X	Alternate
+Nicolas, Lauren	Hirschi HS, Wichita Falls	94	5	6	X
+Simmons, Nate	Hirschi HS, Wichita Falls	84	6	4	X
+Crowley, Elijah	Graham HS, Graham	62	7
+Bish, Austin	Iowa Park HS, Iowa Park	44	8
+Thomas, Samuel	Graham HS, Graham	40	9
+Casey, Alex	Iowa Park HS, Iowa Park	28	10
+Swaim, Connor	Vernon HS, Vernon	28	10
+Kinney, Damin	Graham HS, Graham	22	12
+Thomas, Chaucey	Graham HS, Graham	22	12
+Ronnfeldt, Elizabeth	Burkburnett HS, Burkburnett	8	14			
+Bell, Taylor	Burkburnett HS, Burkburnett	6	15			
+Mubvumba, Tinaye	Vernon HS, Vernon	4	16
+Sharp, Corbyn	Vernon HS, Vernon	4	16
+Lindstrom, Zoe	Iowa Park HS, Iowa Park	-8	18
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Hirschi HS, Wichita Falls	1	521	1	20	X	Region
+Burkburnett HS, Burkburnett	1	470	2	16	X	Alternate
+Graham HS, Graham	1	304	3	12	X
+Iowa Park HS, Iowa Park	1	64	4
+Vernon HS, Vernon	1	36	5
+Computer Science 7
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Kuhn, Noah	Mineral Wells HS, Mineral Wells	170	1	15	X	Region
+Brown, Christian	Stephenville HS, Stephenville	138	2	12	X	Region
+Aaron, Bradley	Mineral Wells HS, Mineral Wells	100	3	10	X	Region
+Flanary, Kaylee	Glen Rose HS, Glen Rose	80	4	8	X	Alternate
+Groves, Kacen	Stephenville HS, Stephenville	78	5	6	X
+Miller, Orrin	Glen Rose HS, Glen Rose	74	6	4	X
+Leak, Scott	Mineral Wells HS, Mineral Wells	62	7
+Grantham, Jonathan	Stephenville HS, Stephenville	52	8
+Crawford, Logan	Mineral Wells HS, Mineral Wells	48	9
+Lalgondar, Chinmayee	Stephenville HS, Stephenville	42	10
+Stanke, Isaiah	Brownwood HS, Brownwood	28	11			
+Goff, Graham	Brownwood HS, Brownwood	26	12			
+Johnson, Ben	Brownwood HS, Brownwood	18	13			
+Hagood, Johnathan	Brownwood HS, Brownwood	16	14			
+Bagale, Shruti	Glen Rose HS, Glen Rose	-10	15
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Mineral Wells HS, Mineral Wells	1	692	1	20	X	Region
+Stephenville HS, Stephenville	1	448	2	16	X	Alternate
+Glen Rose HS, Glen Rose	1	384	3	12	X
+Brownwood HS, Brownwood	1	72	4		
+Computer Science 8
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Gahlawat, Kunal	Argyle HS, Argyle	224	1	15	X	Region
+Rait, Jaxon	Argyle HS, Argyle	136	2	12	X	Region
+Babcock, Tanner	Springtown HS, Springtown	112	3	10	X	Region
+Tran, Christian	Argyle HS, Argyle	104	4	8	X	Alternate
+Ball, Jasmine	Argyle HS, Argyle	100	5	6	X	
+Hall, Zach	Springtown HS, Springtown	58	6	4	X	
+Pitney, Jeremiah	Springtown HS, Springtown	46	7			
+Casper, Emily	Bridgeport HS, Bridgeport	32	8			
+Griffin, Brandon	Bridgeport HS, Bridgeport	12	9			
+Counasse, Tucker	Springtown HS, Springtown	6	10			
+Bradford, Andy	Decatur HS, Decatur	-4	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Argyle HS, Argyle	1	819	1	20	X	Region
+Springtown HS, Springtown	1	331	2	16	X	Alternate
+Computer Science 11
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Lowery, Wyatt	Melissa HS, Melissa	206	1	15	X	Region
+Lewis, Jeffrey S	Anna HS, Anna	124	2	12	X	Region
+Dagley, James	Melissa HS, Melissa	114	3	10	X	Region
+McPherson, Jonathan M	Anna HS, Anna	84	4	8	X	Alternate
+Sotelo, Matthew	Melissa HS, Melissa	76	5	6	X
+McDearis, Christopher	Melissa HS, Melissa	66	6	4	X
+Sekung, Alex	Anna HS, Anna	48	7			
+Wilson, Ben	Aubrey HS, Aubrey	26	8			
+Housewright, Rachael	Aubrey HS, Aubrey	0	9			
+Farmer, Jacan	Aubrey HS, Aubrey	-6	10			
+Whitmire, Michael	Aubrey HS, Aubrey	-16	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Melissa HS, Melissa	1	636	1	20	X	Region
+Anna HS, Anna	1	491	2	16	X	Alternate
+Aubrey HS, Aubrey	1	20	3	12	X	
+Computer Science 13
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Thibodeaux, Peyton	Community HS, Nevada	52	1	15	X	Region
+Segundo, Daniel	Sunnyvale HS, Sunnyvale	46	2	12	X	Region
+Khang, Thomas	Sunnyvale HS, Sunnyvale	44	3	10	X	Region
+Duran, Eymi	Community HS, Nevada	30	4	8	X	Alternate
+Whitten, Rebecca	Community HS, Nevada	26	5	6	X	
+Davis, Blake	Sunnyvale HS, Sunnyvale	22	6	4	X	
+Shaji, Leon	Sunnyvale HS, Sunnyvale	18	7			
+Vandenburg, Colton	Caddo Mills HS, Caddo Mills	14	8			
+Polhaus, Jaymeson L	Caddo Mills HS, Caddo Mills	0	9			
+Cuzdy, Reina	Caddo Mills HS, Caddo Mills	-6	10			
+Houser, Mariah B	Caddo Mills HS, Caddo Mills	-14	11			
+Garcia, Jacqueline	Community HS, Nevada	-26	12			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Community HS, Nevada	1	228	1	20	X	Region
+Sunnyvale HS, Sunnyvale	1	172	2	16	X	Alternate
+Caddo Mills HS, Caddo Mills	1	128	3	12	X	
+Computer Science 15
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Curvino, Donato	North Lamar HS, Paris	44	1	15	X	Region
+Andrews, Quinn	Paris HS, Paris	28	2	12	X	Region
+Conlin, Kaitlyn	North Lamar HS, Paris	24	3	10	X	Region
+De la Garza, Evan	Paris HS, Paris	14	4	8	X	Alternate
+Standifer, Allyssa	Paris HS, Paris	4	5	6	X	
+Culbertson, Will	North Lamar HS, Paris	-4	6	4	X
+Miller, James	Paris HS, Paris	-6	7			
+Meredith, Ryan	North Lamar HS, Paris	-8	8
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Paris HS, Paris	1	106	1	20	X	Region
+North Lamar HS, Paris	1	64	2	16	X	Alternate
+Computer Science 17
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Sutton, Cody	Midlothian Heritage HS, Midlothian	74	1	15	X	Region
+Olson, Calvin	Midlothian Heritage HS, Midlothian	64	2	12	X	Region
+DeFretas, Blake	Midlothian Heritage HS, Midlothian	64	3	10	X	Region
+Holifield, Justin	Ferris HS, Ferris	44	4	8	X	Alternate
+Sotelo, Abraham	Ferris HS, Ferris	36	5	6	X
+Gonzalez, Miguel	Ferris HS, Ferris	32	6	4	X
+Boisvert, Jerrod	Midlothian Heritage HS, Midlothian	0	7			
+Brodin, Brianna	Ferris HS, Ferris	-2	8
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Midlothian Heritage HS, Midlothian	1	382	1	20	X	Region
+Ferris HS, Ferris	1	287	2	16	X	Alternate
+Computer Science 18
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Lewis, C.	Robinson HS, Robinson	54	1	15	X	Region
+Kuehn, Blaine	China Spring HS, China Spring	12	2	12	X	Region
+Myers, J.	Robinson HS, Robinson	4	3	10	X	Region
+Cadieux, Michael	China Spring HS, China Spring	2	4	6	X	Alternate
+Riddle, Andrew	China Spring HS, China Spring	2	4	6	X	Alternate
+Levingston, JaRon	La Vega HS, Waco	2	4	6	X	Alternate
+Gandhi, Tisa	Connally HS, Waco	0	7			
+Espinoza-Tanori, Emily	Connally HS, Waco	0	7			
+Hallock, J.	Robinson HS, Robinson	-2	9
+Anz, Hunter	China Spring HS, China Spring	-6	10			
+Ly, Gia	Connally HS, Waco	-26	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Robinson HS, Robinson	1	56	1	20	X	Region
+China Spring HS, China Spring	1	16	2	16	X	Alternate
+Connally HS, Waco	1	-26	3	12	X	
+Computer Science 19
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Nichols, Gary	Fairfield HS, Fairfield	74	1	15	X	Region
+Croft, Colton	Palestine HS, Palestine	52	2	12	X	Region
+Meas, Ben	Palestine HS, Palestine	48	3	10	X	Region
+Williams, Drew	Fairfield HS, Fairfield	40	4	8	X	Alternate
+Kahrs, Tristyn	Fairfield HS, Fairfield	36	5	6	X
+Cortez, Modesto	Fairfield HS, Fairfield	30	6	4	X
+Zea, Zach J	Rusk HS, Rusk	22	7
+Chaffin, Sean L	Rusk HS, Rusk	6	8
+Potter, Curtis	Palestine HS, Palestine	0	9
+Wofford, John C	Rusk HS, Rusk	0	10
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Fairfield HS, Fairfield	1	500	1	20	X	Region
+Palestine HS, Palestine	1	220	2	16	X	Alternate
+Rusk HS, Rusk	1	28	3	12	X
+Computer Science 20
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Clark, Joshua	Center HS, Center	48	1	15	X	Region
+Guevara, Brisa	Center HS, Center	10	2	12	X	Region
+Shires, Scarlett	Center HS, Center	4	3	10	X	Region
+Hanks, Collin	Carthage HS, Carthage	0	4	8	X	Alternate
+Aubrey, Thomas	Carthage HS, Carthage	-14	5	6	X	
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Center HS, Center	1	62	1	20	X	Region
+Computer Science 25
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Howell, Mason	Needville HS, Needville	200	1	15	X	Region
+Macha, Amanda	Needville HS, Needville	198	2	12	X	Region
+Jiang, Jerry	Wharton HS, Wharton	192	3	10	X	Region
+Amos, Tristan	Needville HS, Needville	178	4	8	X	Alternate
+D'Agostino, Cree	Needville HS, Needville	176	5	6	X	
+Pfiel, Lucas	El Campo HS, El Campo	24	6	4	X
+Davlin, Clay	El Campo HS, El Campo	8	7
+Frankum, Tyler	Wharton HS, Wharton	-2	8			
+Luke, Thompson	El Campo HS, El Campo	-4	9
+Richter, Russell	El Campo HS, El Campo	-10	10
+Valdez, Quinn	Wharton HS, Wharton	-12	11			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Needville HS, Needville	1	936	1	20	X	Region
+Wharton HS, Wharton	1	523	2	16	X	Alternate
+El Campo HS, El Campo	1	88	3	12	X
+Computer Science 26
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Perry, Logan	Giddings HS, Giddings	232	1	15	X	Region
+Karisch, Joshua	Giddings HS, Giddings	170	2	12	X	Region
+Givan, Daxton T.	La Grange HS, La Grange	154	3	10	X	Region
+McCleney, Jett	Giddings HS, Giddings	146	4	8	X	Alternate
+Soto Lopez, Jairo J.	La Grange HS, La Grange	144	5	6	X
+Smith, Trey J.	La Grange HS, La Grange	140	6	4	X
+Cantwell, Sean M.	La Grange HS, La Grange	128	7
+Lawrence, Garrett	Giddings HS, Giddings	102	8
+Gonzales, Antonio	Navasota HS, Navasota	68	9			
+Cosino, John	Navasota HS, Navasota	60	10			
+Wood, Ethan	Navasota HS, Navasota	52	11			
+Briones, Carlos	Navasota HS, Navasota	44	12			
+Segovia, Alec	Bellville HS, Bellville	40	13			
+Konz, Derek	Smithville HS, Smithville	30	14
+Hulsey, Justin	Bellville HS, Bellville	26	15			
+Cano, Michael	Bellville HS, Bellville	22	16			
+Heintschel, Tyler	Bellville HS, Bellville	22	16			
+Campion, Tristan	Smithville HS, Smithville	-8	18
+Zdrog, Ashron	Smithville HS, Smithville	-12	19
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Giddings HS, Giddings	1	1576	1	20	X	Region
+La Grange HS, La Grange	1	1176	2	16	X	Alternate
+Navasota HS, Navasota	1	480	3	12	X	
+Bellville HS, Bellville	1	236	4			
+Smithville HS, Smithville	1	80	5
+Computer Science 29
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Gonzalez, Benito	Carrizo Springs HS, Carrizo Springs	34	1	15	X	Region
+Decker-Diaz, Brianna	Carrizo Springs HS, Carrizo Springs	24	2	12	X	Region
+Weinstrom, Derek	Devine HS, Devine	20	3	10	X	Region
+Lyle, Cameron	Devine HS, Devine	16	4	8	X	Alternate
+Chapa, Benjamin	Carrizo Springs HS, Carrizo Springs	12	5	6	X	
+Rodriguez, Christian	Hondo HS, Hondo	10	6	4	X
+Davis, Krista	Devine HS, Devine	8	7
+Simpkins, Kyle	Devine HS, Devine	4	8
+Martinez, George	Pearsall HS, Pearsall	4	8
+Solis, Rogelio	Pearsall HS, Pearsall	0	10
+Barrera, Galilea	Carrizo Springs HS, Carrizo Springs	0	10			
+Crickard, Kaleb	Hondo HS, Hondo	-2	12
+Ortiz, Angel	Pearsall HS, Pearsall	-2	12
+Stautzenburg, John	Hondo HS, Hondo	-16	14
+Benavides, Roque	Pearsall HS, Pearsall	-18	15
+Romo, Daniel	Hondo HS, Hondo	-38	16
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Carrizo Springs HS, Carrizo Springs	1	130	1	20	X	Region
+Devine HS, Devine	1	99	2	16	X	Alternate
+Pearsall HS, Pearsall	1	2	3	12	X
+Hondo HS, Hondo	1	-8	4
+5A
+Computer Science 10
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Wen, Mark	Lovejoy HS, Lucas	224	1	15	X	Region
+Guo, William	Lovejoy HS, Lucas	216	2	11	X	Region
+Pearl, Will	Lovejoy HS, Lucas	216	2	11	X	Region
+Pottinger, Andy	Lovejoy HS, Lucas	184	4	8	X	Alternate
+Ford, Connor	McKinney North HS, McKinney	90	5	6	X
+Rogers, Jacob	Princeton HS, Princeton	88	6	4	X	
+Contreras, Steven	Princeton HS, Princeton	64	7			
+Hadley, Riley	McKinney North HS, McKinney	64	7
+Corriveau, Travis	McKinney North HS, McKinney	44	9
+Fisher, Colton	Sherman HS, Sherman	42	10
+Branson, Nathan	Sherman HS, Sherman	28	11
+Phan, Minh	McKinney North HS, McKinney	28	11
+Cook, Kyler	Princeton HS, Princeton	20	13			
+Rader, Chase	Princeton HS, Princeton	4	14			
+Durham, Aaron	Sherman HS, Sherman	-16	15
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Lovejoy HS, Lucas	1	1106	1	20	X	Region
+McKinney North HS, McKinney	1	318	2	16	X	Alternate
+Princeton HS, Princeton	1	292	3	12	X	
+Sherman HS, Sherman	1	120	4
+Computer Science 15
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Soles, Dakota J	Sulphur Springs HS, Sulphur Springs	208	1	13.50	X	Region
+Fisher, Brayden C	Sulphur Springs HS, Sulphur Springs	208	1	13.50	X	Region
+Moore, Levi	Lindale HS, Lindale	190	3	10	X	Region
+Orozco, Kevin Y	Sulphur Springs HS, Sulphur Springs	168	4	8	X	Alternate
+Talmage, Blake A	Sulphur Springs HS, Sulphur Springs	148	5	6	X	
+Eaves, Madysyn	Lindale HS, Lindale	146	6	4	X
+Gregg, Stefan	Lindale HS, Lindale	86	7
+Barboza, David	Mount Pleasant HS, Mount Pleasant	84	8
+Watkins, Wesly	Lindale HS, Lindale	78	9
+Poudel, Samip	Mount Pleasant HS, Mount Pleasant	60	10
+Alvarado, Chris E.	Royse City HS, Royse City	28	11
+Rangel-Rios, Danny	Royse City HS, Royse City	18	12
+Brison, Connor	Mount Pleasant HS, Mount Pleasant	8	13
+Caramillo, Raymond G.	Royse City HS, Royse City	8	13
+Frimpter, Johnathan P.	Royse City HS, Royse City	8	13
+Rose, Caroline	Mount Pleasant HS, Mount Pleasant	-4	16
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Sulphur Springs HS, Sulphur Springs	1	884	1	20	X	Region
+Lindale HS, Lindale	1	597	2	16	X	Alternate
+Mount Pleasant HS, Mount Pleasant	1	212	3	12	X
+Royse City HS, Royse City	1	164	4
+Computer Science 16
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Elledge, Josh	Hallsville HS, Hallsville	192	1	15	X	Region
+Barron, Juan	Lufkin HS, Lufkin	172	2	12	X	Region
+Smith, Savannah	Hallsville HS, Hallsville	158	3	10	X	Region
+Fajardo, Robyn	Whitehouse HS, Whitehouse	104	4	8	X	Alternate
+Carrig, Jared	Whitehouse HS, Whitehouse	96	5	6	X	
+Hilario, Vincent	Whitehouse HS, Whitehouse	94	6	4	X	
+Adams, Andrew	Lufkin HS, Lufkin	90	7
+Breaux, Logan	Hallsville HS, Hallsville	78	8
+Cabudoy, Jann S.	Pine Tree HS, Longview	70	9			
+Whitaker, Dan	Whitehouse HS, Whitehouse	60	10			
+King, Bryce	Lufkin HS, Lufkin	58	11
+Smith, Glen	Hallsville HS, Hallsville	56	12
+Mir, Yousuf	Lufkin HS, Lufkin	28	13
+Lebaillif, David	Nacogdoches HS, Nacogdoches	10	14
+Juarez, Fidel	Nacogdoches HS, Nacogdoches	4	15
+Vega, Jose	Nacogdoches HS, Nacogdoches	4	15
+Sifuentes, Rafael	Nacogdoches HS, Nacogdoches	-20	17
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Hallsville HS, Hallsville	1	833	1	20	X	Region
+Lufkin HS, Lufkin	1	620	2	16	X	Alternate
+Whitehouse HS, Whitehouse	1	534	3	12	X	
+Nacogdoches HS, Nacogdoches	1	133	4
+Computer Science 19
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Saravanan, Shiva	A & M Cons HS, College Station	216	1	15	X	Region
+Carbo, Logan	College Station HS, College Station	204	2	12	X	Region
+Gonzalez, Emmanuel	Waller HS, Waller	202	3	10	X	Region
+Duncan, Laura	Waller HS, Waller	188	4	8	X	Alternate
+Thomson, Irfan	College Station HS, College Station	144	5	6	X	
+Chang, David	A & M Cons HS, College Station	142	6	4	X	
+Asatryan, David	A & M Cons HS, College Station	140	7			
+Waheed, Saim	College Station HS, College Station	136	8			
+Alford, Chase	Magnolia HS, Magnolia	128	9			
+Lehmann, Michael	Brenham HS, Brenham	126	10			
+Musser, Vincent	College Station HS, College Station	120	11			
+Wagner, Marshall	Brenham HS, Brenham	118	12			
+Miao, Cathy	A & M Cons HS, College Station	112	13			
+Alford, Julia	Magnolia HS, Magnolia	108	14			
+Lehmann, Faith	Brenham HS, Brenham	102	15			
+Sorge, Collin	Waller HS, Waller	90	16			
+Tullis, Blake	Magnolia HS, Magnolia	86	17			
+Misak, William	Waller HS, Waller	80	18			
+Kruse, Blake	Brenham HS, Brenham	80	18			
+Becerril, Cristofer	Magnolia West HS, Magnolia	80	18			
+Clark, Seth	Magnolia HS, Magnolia	68	21			
+Doyle, Brynner	Magnolia West HS, Magnolia	64	22			
+Cochran, Donny	Rudder HS, Bryan	42	23			
+Quillivan, Conor	Magnolia West HS, Magnolia	26	24			
+Perez, Pedro	Rudder HS, Bryan	20	25			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+A & M Cons HS, College Station	1	918	1	20	X	Region
+College Station HS, College Station	1	899	2	16	X	Alternate
+Waller HS, Waller	1	770	3	12	X	
+Magnolia HS, Magnolia	1	622	4			
+Brenham HS, Brenham	1	576	5			
+Magnolia West HS, Magnolia	1	405	6	
+6A
+Computer Science 6
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Bailey, Evan	Marcus HS, Flower Mound	232	1	15	X	Region
+Cao, Will	Flower Mound HS, Flower Mound	208	2	12	X	Region
+Gates, Lucas	Hebron HS, Carrollton	202	3	10	X	Region
+Teague, John	Flower Mound HS, Flower Mound	190	4	8	X	Alternate
+Westrope, Nolan	Marcus HS, Flower Mound	182	5	6	X	
+Habich, Alex	Hebron HS, Carrollton	180	6	2	X	
+Uzowihe, Chuk	Flower Mound HS, Flower Mound	180	6	2	X	
+Yadav, Sanjana	Hebron HS, Carrollton	176	8			
+Neus, Collin	Marcus HS, Flower Mound	148	9			
+Teja, Sirigina	Hebron HS, Carrollton	146	10			
+Nance, Logan	Lewisville HS, Lewisville	142	11
+Horner, Mark	Flower Mound HS, Flower Mound	138	12			
+Mackie, John	Marcus HS, Flower Mound	136	13			
+Wences, Gustavo	Lewisville HS, Lewisville	118	14
+Russell, Maggie	Lewisville HS, Lewisville	112	15
+Hernandez, Jefry	Irving HS, Irving	102	16			
+Rahman, Shahid	MacArthur HS, Irving	98	17			
+Vasquez, Jesse	Lewisville HS, Lewisville	88	18
+Rucker, Joe	Irving HS, Irving	70	19			
+Sanchez, Gabriel	Irving HS, Irving	64	20			
+Tran, Peter	Irving HS, Irving	58	21			
+Ahsen, Ahmed	MacArthur HS, Irving	40	22			
+Collett, Mason	MacArthur HS, Irving	18	23			
+Goins, Paul	MacArthur HS, Irving	16	24			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Flower Mound HS, Flower Mound	1	1173	1	20	X	Region
+Marcus HS, Flower Mound	1	1037	2	16	X	Alternate
+Hebron HS, Carrollton	1	1028	3	12	X	
+Lewisville HS, Lewisville	1	672	4
+Irving HS, Irving	1	356	5			
+MacArthur HS, Irving	1	336	6	
+Computer Science 9
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Zhang, Eric K	Plano West Sr HS, Plano	240	1	13.50	X	Region
+Fazzani, Bruno	Plano East Sr HS, Plano	240	1	13.50	X	Region
+Ladera, JB	Plano Sr HS, Plano	232	3	10	X	Region
+Tan, Autumn Y	Plano West Sr HS, Plano	224	4	7	X	Alternate
+Ziegelbein, Sam J	Plano West Sr HS, Plano	224	4	7	X	Alternate
+Yen, Howard	Plano Sr HS, Plano	218	6	4	X	
+Humphrey, Leonard	McKinney HS, McKinney	216	7			
+Khan, Azhan	McKinney HS, McKinney	216	7			
+Gal, Roie	Plano Sr HS, Plano	216	7			
+Noeske, Richard	Allen HS, Allen	212	10			
+Qin, Timothy T	Plano West Sr HS, Plano	210	11			
+Cardenas, Peter	Allen HS, Allen	210	11			
+Hicks, Jacob	McKinney HS, McKinney	208	13			
+Davenport, Logan	Prosper HS, Prosper	208	13			
+Brown, Jason	Prosper HS, Prosper	200	15			
+Parks, Daniel	Plano East Sr HS, Plano	182	16			
+Hasan, Rakin	Plano East Sr HS, Plano	178	17			
+Huang, Kenneth	Plano Sr HS, Plano	176	18			
+Leibovich, Inbar	McKinney Boyd HS, McKinney	174	19			
+Powell, David	Prosper HS, Prosper	174	19			
+Yu, Justin	Plano East Sr HS, Plano	170	21			
+Ahmed, Saffat	McKinney HS, McKinney	166	22			
+Chen, Yue	Allen HS, Allen	146	23			
+Rice, Michael	Allen HS, Allen	144	24			
+Little, Paul	McKinney Boyd HS, McKinney	116	25			
+Corbeill, Alex	Prosper HS, Prosper	114	26			
+Leibovich, Yuvali	McKinney Boyd HS, McKinney	92	27			
+Parker, Jacob	McKinney Boyd HS, McKinney	62	28			
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Plano West Sr HS, Plano	1	1408	1	20	X	Region
+Plano Sr HS, Plano	1	1321	2	16	X	Alternate
+Plano East Sr HS, Plano	1	1255	3	12	X	
+Prosper HS, Prosper	1	942	4			
+Allen HS, Allen	1	918	5			
+McKinney HS, McKinney	1	915	6			
+McKinney Boyd HS, McKinney	1	382	7	
+Computer Science 11
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Wood, Jacob	Rockwall-Heath HS, Heath	122	1	15	X	Region
+Scott, Wyatt	Longview HS, Longview	66	2	12	X	Region
+Morgenstern, Jan	Rockwall-Heath HS, Heath	56	3	10	X	Region
+Jones, Henry	Lee HS, Tyler	54	4	8	X	Alternate
+Molina, Daija	Longview HS, Longview	52	5	6	X
+El-Kishky, Omar	Lee HS, Tyler	50	6	4	X
+Suberu, Oluwaseun	Mesquite HS, Mesquite	42	7
+Gussoni, Joseph	Mesquite HS, Mesquite	38	8
+Nay, Andre	Mesquite HS, Mesquite	38	8
+Sasfai, Camden	Rockwall-Heath HS, Heath	38	8			
+Webb, Spencer	Lee HS, Tyler	34	11
+Poliarco, Samantha	Mesquite HS, Mesquite	22	12
+Islam, Nurul	Longview HS, Longview	16	13
+Montemeyer, Matthew	North Mesquite HS, Mesquite	2	14
+Okumbor, Aisosa	North Mesquite HS, Mesquite	2	14
+Jackson, Elbert	North Mesquite HS, Mesquite	0	16
+Martinez, Leslie	Longview HS, Longview	0	16
+Barrick, Aiden	Rockwall-Heath HS, Heath	-2	18			
+Rodriguez, Christian	North Mesquite HS, Mesquite	-6	19
+Branham, Brandy	Lee HS, Tyler	-6	19
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Rockwall-Heath HS, Heath	1	622	1	20	X	Region
+Longview HS, Longview	1	388	2	16	X	Alternate
+Mesquite HS, Mesquite	1	346	3	12	X
+Lee HS, Tyler	1	276	4
+North Mesquite HS, Mesquite	1	117	5
+Computer Science 14
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Cheng, Steven	Cypress Woods HS, Cypress	240	1	13.50	X	Region
+Wiesepapi, Tristan	Cypress Woods HS, Cypress	240	1	13.50	X	Region
+Armstrong, Sam	Cypress Woods HS, Cypress	232	3	9	X	Region
+Iyer, Anand	Cypress Woods HS, Cypress	232	3	9	X	Region
+Eng, William	Tomball Memorial HS, Tomball	218	5	6	X	Alternate
+Padron, Cesar A	Cypress Ranch HS, Cypress	180	6	4	X	
+Philip, Matthew J	Cypress Ranch HS, Cypress	170	7			
+Akosile, Ayomide	Tomball Memorial HS, Tomball	166	8			
+Storey, Chance	Tomball Memorial HS, Tomball	158	9			
+Brackin, Thomas	Tomball Memorial HS, Tomball	134	10			
+Kinsley, Jarrett	Bridgeland HS, Cypress	134	10			
+Goel, Anish	Cypress Ranch HS, Cypress	130	12			
+Sonti, Shriman P	Cypress Ranch HS, Cypress	120	13			
+Troung, Jesse	Bridgeland HS, Cypress	104	14			
+Nguyen, Martin	Cypress Lakes, Katy	104	14			
+Le, Matthew	Cypress Lakes, Katy	98	16			
+Torress, Samual	Bridgeland HS, Cypress	90	17			
+Howard, Adam	Cypress Park HS, Cypress	88	18			
+Chen, Anthoney	Bridgeland HS, Cypress	86	19			
+Lu, Brandon	Cypress Lakes, Katy	76	20			
+Williams, Mason	Cypress Park HS, Cypress	72	21			
+Silvey, Gabriel	Bryan HS, Bryan	62	22			
+Polanco, Zeus	Cypress Springs HS, Cypress	50	23			
+Martinez, Armando	Cypress Park HS, Cypress	44	24			
+Miles, Jordan	Cypress Lakes, Katy	42	25			
+Ford, Mason	Bryan HS, Bryan	40	26			
+Anaya, Joscef	Cypress Park HS, Cypress	38	27			
+Bradley, Nico	Bryan HS, Bryan	14	28			
+Franklin, Aiden	Bridgeland HS, Cypress	0	29			
+Wintill, Ethan	Langham Creek HS, Houston	0	29
+Richardson, Mathew	Langham Creek HS, Houston	0	29
+Nguyen, Dylan	Langham Creek HS, Houston	0	29
+Strickland, Stephen	Langham Creek HS, Houston	0	29
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Cypress Woods HS, Cypress	1	1422	1	20	X	Region
+Tomball Memorial HS, Tomball	1	962	2	16	X	Alternate
+Cypress Ranch HS, Cypress	1	835	3	12	X	
+Cypress Lakes, Katy	1	698	4			
+Bridgeland HS, Cypress	1	628	5			
+Cypress Park HS, Cypress	1	324	6			
+Bryan HS, Bryan	1	236	7			
+Langham Creek HS, Houston	1	0	8
+Computer Science 20
+Individual Results
+Contestant	School	Score	Place	Points	Medal	Advance
+Yang, Elvin	Clements HS, Sugar Land	232	1	12.33	X	Region
+Zhang, Owen	Clements HS, Sugar Land	232	1	12.33	X	Region
+Wang, Victor	Clements HS, Sugar Land	232	1	12.33	X	Region
+Hsu, Nicolas	Austin HS, Sugar Land	224	4	7	X	Alternate
+Mohan, Shree	Dulles HS, Sugar Land	224	4	7	X	Alternate
+Ratnani, Ammar	Clements HS, Sugar Land	216	6	4	X	
+Rasiyani, Adil	Dulles HS, Sugar Land	212	7
+Siu, Jason	Austin HS, Sugar Land	210	8			
+Dandamudi, Kushal	Dulles HS, Sugar Land	208	9
+Khurram, Syed Muhammad A	Austin HS, Sugar Land	206	10			
+Wei, Ruocheng	Dulles HS, Sugar Land	172	11
+Ali, Naveen	Austin HS, Sugar Land	168	12			
+Costello, Arwen	Elkins HS, Missouri City	150	13
+Ligon, Ian	Travis HS, Richmond	148	14			
+Hakam, Sammy	Elkins HS, Missouri City	136	15
+Oswal, Ayushi	Elkins HS, Missouri City	118	16
+Chen, Audrey	Elkins HS, Missouri City	114	17
+Lambeck, Brayden	Travis HS, Richmond	88	18			
+Mathuria, Sarthi	Kempner HS, Sugar Land	78	19
+Ly, Cindy	Kempner HS, Sugar Land	64	20
+Bhuiyan, Shior	Kempner HS, Sugar Land	46	21
+Moid, Shayan	Travis HS, Richmond	36	22			
+Ansari, Abdullah	Kempner HS, Sugar Land	24	23
+Team Results
+School	Team	Score	Place	Points	Medal	Advance
+Clements HS, Sugar Land	1	1416	1	20	X	Region
+Dulles HS, Sugar Land	1	1244	2	16	X	Alternate
+Austin HS, Sugar Land	1	1164	3	12	X	
+Elkins HS, Missouri City	1	704	4
+Travis HS, Richmond	1	692	5			
+Kempner HS, Sugar Land	1	308	6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

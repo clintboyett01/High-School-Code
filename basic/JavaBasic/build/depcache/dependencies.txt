@@ -1,0 +1,7 @@
+||:org.java.basic.package-info
+java.lang.Object
+org.java.basic.package-info
+||:org.java.basic.Bundle
+java.lang.Object
+org.openide.util.NbBundle
+org.java.basic.Bundle

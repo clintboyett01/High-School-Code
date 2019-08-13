@@ -1,0 +1,22 @@
+
+import java.io.*;
+import java.util.*;
+
+
+/**
+ *@Henderson Computer Science UIL team
+ *@${date}
+ *@${time}
+ */
+public clas
+s ${name} {
+    
+    public static void main(String[] args) throws IOException{
+        Scanner sc = new Scanner(new File("${cursor}"));
+        int count = sc.nextInt();
+        for (int i = 0; i < count; i++) {
+            
+        }
+    }
+
+}

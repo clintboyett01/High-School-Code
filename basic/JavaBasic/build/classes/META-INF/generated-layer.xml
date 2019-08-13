@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Other">
+            <file name="JavaClassWithScanner.html" url="nbresloc:/org/java/basic/JavaClassWithScanner.html">
+                <!--org.java.basic-->
+                <attr boolvalue="true" name="template"/>
+                <attr
+                    bundlevalue="org.java.basic.Bundle#HTMLtemplate_displayName" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/java/basic/Java.gif"/>
+                <attr name="instantiatingWizardURL" urlvalue="nbresloc:/org/java/basic/Description.html"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr boolvalue="true" name="requireProject"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
